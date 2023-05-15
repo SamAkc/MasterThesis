@@ -1,48 +1,9 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% PSI Chair Thesis Template
-% Version 20200913
-%
-% based on MastersDoctoralThesis.cls
-% Version 2.5 (27/8/17)
-%
-% which was obtained from:
-% http://www.LaTeXTemplates.com
-%
-% Version 2.x major modifications by:
-% Vel (vel@latextemplates.com)
-%
-% This template is based on a template by:
-% Steve Gunn (http://users.ecs.soton.ac.uk/srg/softwaretools/document/templates/)
-% Sunil Patel (http://www.sunilpatel.co.uk/thesis-template/)
-%
-% License of this guide and the template
-% CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
-%
-% Exception 1: Some excerpts, figures, and tables that have been taken
-% from the literature (denoted with a citation in the caption) are not
-% covered by the above license. Permission to re-use and distribute
-% these excerpts, figures, and tables must be obtained from the
-% respective holder of the copyrights.
-%
-% Exception 2: Chapter 1 and Appendix C are based on content from the
-% MastersDoctoralThesis template mentioned above, which is licensed under
-% CC BY-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
-%
-% License of the PSIThesis.cls class file:
-% LPPL v1.3c (http://www.latex-project.org/lppl)
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
-
+% !TeX program = lualatex
 \PassOptionsToPackage{english,ngerman}{babel}
 \documentclass[
 11pt, % The default document font size is 11 (recommended), options: 10pt, 11pt, 12pt
 %oneside, % Two-side layout is recommended; uncomment to switch to one-sided
-english, % replace with ngerman for German; not fully supported so far -- requires changes elsewhere
+ngerman, % replace with ngerman for German; not fully supported so far -- requires changes elsewhere
 singlespacing, % Single line spacing (recommended), alternatives: onehalfspacing or doublespacing
 %draft, % Uncomment to enable draft mode (no pictures, no links, overfull hboxes indicated)
 %nolistspacing, % If the document is onehalfspacing or doublespacing, uncomment this to set spacing in lists to single
@@ -56,7 +17,7 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 ]{PSIThesis} % The class file specifying the document structure
 
 % version of the guide
-\def\tversion{v20200913}
+\def\tversion{}
 
 % long-term stable URL to the thesis guide
 \def\doiurl{https://doi.org/10.20378/irb-48428}
@@ -75,29 +36,29 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 %----------------------------------------------------------------------------------------
 %	THESIS INFORMATION
 %----------------------------------------------------------------------------------------
-\newcommand{\thesistype}{Bachelor} % type of your thesis (Bachelors, Masters, Doctoral ...)
+\newcommand{\thesistype}{Master} % type of your thesis (Bachelors, Masters, Doctoral ...)
 
 %%% CHANGE THIS:
 % Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
-\thesistitle{Guidelines for Writing a High-Quality Thesis with the PSIThesis Template}
+\thesistitle{Entwicklung eines interaktiven Werkzeugs zur Kuratierung von Umweltdaten einer bürgerinitiierten Crowdsensing-Kampagne}
 
 % date to be printed on the title, this will automatically update and be in the correct format
 % If any changes to this format (Month JJJJ) are necessary the definition can be found in line 337
 % of misc/setup.tex
-\def\tdate{\monthyeardate\today}
+\def\tdate{15 November 2023}%\monthyeardate\today}
 
 %%% CHANGE THIS:
 % Your name, this is used in the title page, print it elsewhere with \authorname
-\author{Dominik Herrmann}
+\author{Samet Murat Akcabay}
 
 % Your supervisor's name, this is used in the title page, print it elsewhere with \supname
-\supervisor{Prof. Dr. XXX YYY}
+\supervisor{Prof. Dr. Daniela Nicklas}
 
 % Your university's name and URL, this is used in the title page, print it elsewhere with \univname
-\university{\href{https://www.uni-bamberg.de/en/}{University of Bamberg}}
+\university{\href{https://www.uni-bamberg.de/}{Otto-Friedrich-Universität Bamberg}}
 
 % Your research group's name and URL, this is used in the title page, print it elsewhere with \groupname
-\group{\href{https://www.uni-bamberg.de/en/psi/}{Privacy and Security in Information Systems Group}}
+\group{\href{https://www.uni-bamberg.de/en/mobi/}{Lehrstuhl für Informatik, insbesondere Mobile Softwaresysteme/Mobilität}}
 
 % Your department's name and URL, this is used in the title page, print it elsewhere with \deptname
 \department{department not used}
@@ -111,7 +72,7 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 % International Software Systems Science
 % Software Systems Science
 % Education in Business and Information Systems
-\faculty{Software Systems Science Degree Program in the\\ \href{https://www.uni-bamberg.de/en/wiai/}{Faculty of Information Systems and Applied Computer Sciences}}
+\faculty{Angewandte Informatik an der \\ \href{https://www.uni-bamberg.de/wiai/}{Faktultät Wirtschaftsinformatik und Angewandte Informatik}}
 
 % Your address, this is not currently used anywhere in the template, print it elsewhere with \addressname
 \addresses{address not used}
@@ -128,7 +89,7 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 
 \begin{document}
 
-\selectlanguage{english}
+\selectlanguage{ngerman}
 
 \frenchspacing % do not add additional hspace after end of sentence full stop dot.
 
@@ -158,20 +119,6 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 
 \begin{abstract}
 %\addchaptertocentry{\abstractname}
-% uncomment to add the abstract to the table of contents (not recommended)
-
-For an overview of this document, see \Cref{Chapter1}.
-
-Provide a Thesis Abstract here (length: less than one page).
-
-For a start, you may want to consult the concise instructions for writing the Summary Paragraph in \emph{Nature}: \url{https://www.nature.com/documents/nature-summary-paragraph.pdf}. Moreover, consider Markus Kuhn's advice on differentiating abstract and introduction: \url{https://www.lightbluetouchpaper.org/2007/03/14/how-not-to-write-an-abstract/}.
-
-A boilerplate scheme for an abstract is as follows: devote 25\,\% of the space on the purpose and importance of the research (introduction), 25\,\% of the space on what you did (methods), 35\,\% of the space on what you found (results), and 15\,\% of the space on the implications of the research (cf. \url{https://writingcenter.gmu.edu/guides/writing-an-abstract}).
-
-More concrete advice for writing abstracts can be found on the website of the Writing Center of the University of North Carolina at Chapel Hill (\url{https://writingcenter.unc.edu/tips-and-tools/abstracts/}). Some useful phrases for abstracts can be found at \url{http://dissertation.laerd.com/useful-phrases-when-writing-a-dissertation-abstract.php}
-
-Finally, you may also want to consider the excellent guide by Kent Beck on how to write good abstracts, which focuses on conference papers:
-\url{https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html}.
 
 \end{abstract}
 
@@ -240,11 +187,6 @@ Finally, you may also want to consider the excellent guide by Kent Beck on how t
 % Mind the \input instead of the \include here, that change is necessary for the appendix formatting
 % Due to the \input command you also need to provide the .tex file ending
 
-\input{chapters/chapter1.tex}
-\input{chapters/chapter2.tex}
-%\input{chapters/chapter3.tex}
-%\input{chapters/chapter4.tex}
-%\input{chapters/chapter5.tex}
 
 
 %----------------------------------------------------------------------------------------
@@ -264,15 +206,8 @@ Finally, you may also want to consider the excellent guide by Kent Beck on how t
 \renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
 \renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
 
-%%% CHANGES NEEDED HERE
-%
 % Include the appendices of the thesis as separate files from the Appendices folder
 % Uncomment the lines as you write the Appendices
-
-\include{appendices/appendixA}
-\include{appendices/appendixB}
-\include{appendices/appendixC}
-
 
 
 %----------------------------------------------------------------------------------------
@@ -293,7 +228,7 @@ Finally, you may also want to consider the excellent guide by Kent Beck on how t
 	% showframe, % Uncomment to show how the type block is set on the page
 }
 
-\addchap{References}
+\addchap{Literaturverzeichnis}
 
 % enables two-column layout for bibliography
 \setlength\columnsep{2em}
