@@ -1,0 +1,12 @@
+citizens of Bamberg as Stakeholder
+
+Dr. Fokens problem
+our problem: we want to make a tool that Dr. Foken can use to identify so they can understand the data, check what they want, make their life easier
+process of getting data takes a lot of time: they go to the website, they take the data, transfer each entry of data etc. -> waste of time
+
+-> they want us to get the data easily
+
+create a website, so user can login to Netatmo
+use Reem's code to show data, I need to visualize data in a nice way to Stakeholders
+include graphs for example, 
+-> target group limited: klimamessnetz Bamberg (Dr. Foken/David Keil...)
