@@ -1,4 +1,5 @@
-%!TeX program = lualatex
+% !TeX program = lualatex
+
 \PassOptionsToPackage{english,ngerman}{babel}
 \documentclass[
 11pt, % The default document font size is 11 (recommended), options: 10pt, 11pt, 12pt
@@ -52,7 +53,7 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 \author{Samet Murat Akcabay}
 
 % Your supervisor's name, this is used in the title page, print it elsewhere with \supname
-\supervisor{Prof. Dr. Daniela Nicklas}
+\supervisor{Prof.\ Dr.\ Daniela Nicklas}
 
 % Your university's name and URL, this is used in the title page, print it elsewhere with \univname
 \university{\href{https://www.uni-bamberg.de/}{Otto-Friedrich-Universität Bamberg}}
@@ -140,7 +141,6 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 %----------------------------------------------------------------------------------------
 
 \cleardoublepage
-
 % Table of Contents uses a wider layout than the main content
 \newgeometry{
 		head=13.6pt,
@@ -156,7 +156,6 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 \tableofcontents % Prints the ToC entries
 }
 \restoregeometry
-
 %----------------------------------------------------------------------------------------
 %	DEDICATION
 %----------------------------------------------------------------------------------------
@@ -167,7 +166,7 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - CHAPTERS
 %----------------------------------------------------------------------------------------
-\mainmatter % From here on, numeric (1,2,3...) page numbering
+\mainmatter% From here on, numeric (1,2,3...) page numbering
 \pagestyle{thesis} % Return the page headers back to the "thesis" style
 
 % Define some commands to keep the formatting separated from the content
@@ -186,7 +185,14 @@ consistentlayout, % layout of declaration, abstract and acknowledgements pages m
 % Uncomment the lines as you write the chapters
 % Mind the \input instead of the \include here, that change is necessary for the appendix formatting
 % Due to the \input command you also need to provide the .tex file ending
-
+\input{chapters/abbreviations.tex}
+\input{chapters/introduction.tex}
+\input{chapters/background.tex}
+\input{chapters/concept.tex}
+\input{chapters/related_work.tex}
+\input{chapters/requirements.tex}
+\input{chapters/discussion.tex}
+\input{chapters/conclusion.tex}
 
 
 %----------------------------------------------------------------------------------------
@@ -259,7 +265,7 @@ Ich erkläre hiermit gemä\ss\ \S~9 Abs.\,12 APO, dass ich die vorstehende {\the
 
 \begin{tabular}{@{}l@{}}
   Bamberg, den \rule[-0.8em]{10em}{0.5pt}\\[2ex]
-  ~
+~
 \end{tabular}
 \hspace{\fill}%
 \begin{tabular}{@{}c@{}}
