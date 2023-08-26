@@ -1,2 +1,6 @@
 */.DS_Store
 /src/venv
+/src/.env
+/src/env-variables.ps1
+/__pycache__
+src/__pycache__

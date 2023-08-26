@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Bamberg messen 2.0 | Home</title>
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-language" content="de" />
+<link rel="stylesheet" type="text/css" href="../static/css/styles.css">
+</link>
+{% endblock %}
+
+{% block javascript %}
+<script type="text/javascript" src="https://openlayers.org/api/OpenLayers.js"></script>
+<script type="text/javascript" src="https://openstreetmap.org/openlayers/OpenStreetMap.js"></script>
+<script type="text/javascript" src="../static/js/tom.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+
+    var map;
+    var layer_mapnik;
+    var layer_tah;
+    var layer_markers;
+
+    function drawmap() {
+        OpenLayers.Lang.setCode('de');
+
+        var popuptext="<font color=\"black\"><b>Thomas Heiles<br>Stra&szlig;e 123<br>54290 Trier</b></font>";
+
+        // coordinates of Bamberg:
+        var lon = 10.893;
+        var lat = 49.8897;
+        var zoom = 15;
+
+        map = new OpenLayers.Map('map', {
+            projection: new OpenLayers.Projection("EPSG:900913"),
+            displayProjection: new OpenLayers.Projection("EPSG:4326"),
+            controls: [
+                new OpenLayers.Control.Navigation(),
+                new OpenLayers.Control.LayerSwitcher(),
+                new OpenLayers.Control.PanZoomBar()],
+            maxExtent:
+                new OpenLayers.Bounds(-20037508.34, -20037508.34,
+                    20037508.34, 20037508.34),
+            numZoomLevels: 18,
+            maxResolution: 156543,
+            units: 'meters'
+        });
+
+        layer_mapnik = new OpenLayers.Layer.OSM.Mapnik("Mapnik");
+        layer_markers = new OpenLayers.Layer.Markers("Address", {
+            projection: new OpenLayers.Projection("EPSG:4326"),
+            visibility: true, displayInLayerSwitcher: false
+        });
+
+        map.addLayers([layer_mapnik, layer_markers]);
+        jumpTo(lon, lat, zoom);
+
+        // Position des Markers
+        addMarker(layer_markers, 10.893, 49.8897, popuptext);
+
+        addMarker(layer_markers, 10.890, 49.8895, popuptext);
+    }
+
+    //]]>
+</script>
+{% endblock %}
+
+{% block content %}
+<div id="map">
+</div>
+<div id="OSM-footer">
+    <div id="osm">© <a href="https://www.openstreetmap.org">OpenStreetMap</a>
+        <a href="https://www.openstreetmap.org/copyright">Mitwirkende</a>,
+        <a href="https://opendatacommons.org/licenses/odbl/">ODbL</a>
+    </div>
+</div>
+{% endblock %}
