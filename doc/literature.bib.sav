@@ -19,29 +19,6 @@
 	Year = {2010},
 	Bdsk-Url-1 = {https://doi.org/10.1007/978-3-642-14992-4%5C_19}}
 
-@inproceedings{BuchananRSS08,
-	Author = {Erik Buchanan and Ryan Roemer and Hovav Shacham and Stefan Savage},
-	Bibsource = {dblp computer science bibliography, https://dblp.org},
-	Biburl = {https://dblp.org/rec/bib/conf/ccs/BuchananRSS08},
-	Booktitle = {Proceedings of the 2008 {ACM} Conference on Computer and Communications Security, {CCS} 2008, Alexandria, Virginia, USA, October 27-31, 2008},
-	Crossref = {DBLP:conf/ccs/2008},
-	Doi = {10.1145/1455770.1455776},
-	Pages = {27--38},
-	Timestamp = {Wed, 14 Nov 2018 10:54:58 +0100},
-	Title = {When good instructions go bad: generalizing return-oriented programming to {RISC}},
-	Url = {https://doi.org/10.1145/1455770.1455776},
-	Year = {2008},
-	Bdsk-Url-1 = {https://doi.org/10.1145/1455770.1455776}}
-
-@inproceedings{DietrichKBF18,
-	Author = {Constanze Dietrich and Katharina Krombholz and Kevin Borgolte and Tobias Fiebig},
-	Crossref = {DBLP:conf/ccs/2018},
-	Date-Modified = {2020-03-06 11:02:53 +0100},
-	Pages = {1272--1289},
-	Title = {Investigating System Operators' Perspective on Security Misconfigurations},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1145/3243734.3243794}}
-
 @proceedings{DBLP:conf/fc/2010w,
 	Date-Added = {2020-03-06 09:45:27 +0100},
 	Date-Modified = {2020-03-06 09:47:01 +0100},
@@ -561,6 +538,20 @@
 	Volume = {405},
 	Year = {2013}}
 
+@inproceedings{BuchananRSS08,
+	Author = {Erik Buchanan and Ryan Roemer and Hovav Shacham and Stefan Savage},
+	Bibsource = {dblp computer science bibliography, https://dblp.org},
+	Biburl = {https://dblp.org/rec/bib/conf/ccs/BuchananRSS08},
+	Booktitle = {Proceedings of the 2008 {ACM} Conference on Computer and Communications Security, {CCS} 2008, Alexandria, Virginia, USA, October 27-31, 2008},
+	Crossref = {DBLP:conf/ccs/2008},
+	Doi = {10.1145/1455770.1455776},
+	Pages = {27--38},
+	Timestamp = {Wed, 14 Nov 2018 10:54:58 +0100},
+	Title = {When good instructions go bad: generalizing return-oriented programming to {RISC}},
+	Url = {https://doi.org/10.1145/1455770.1455776},
+	Year = {2008},
+	Bdsk-Url-1 = {https://doi.org/10.1145/1455770.1455776}}
+
 @proceedings{DBLP:conf/ccs/2008,
 	Bibsource = {dblp computer science bibliography, https://dblp.org},
 	Biburl = {https://dblp.org/rec/bib/conf/ccs/2008},
@@ -571,11 +562,18 @@
 	Title = {Proceedings of the 2008 {ACM} Conference on Computer and Communications Security, {CCS} 2008, Alexandria, Virginia, USA, October 27-31, 2008},
 	Year = {2008}}
 
+@inproceedings{DietrichKBF18,
+	Author = {Constanze Dietrich and Katharina Krombholz and Kevin Borgolte and Tobias Fiebig},
+	Crossref = {DBLP:conf/ccs/2018},
+	Date-Modified = {2020-03-06 11:02:53 +0100},
+	Pages = {1272--1289},
+	Title = {Investigating System Operators' Perspective on Security Misconfigurations},
+	Year = {2018},
+	Bdsk-Url-1 = {https://doi.org/10.1145/3243734.3243794}}
+
 @proceedings{DBLP:conf/ccs/2018,
 	Date-Modified = {2020-03-06 11:02:45 +0100},
 	Publisher = {{ACM}},
 	Title = {Conference on Computer and Communications Security (CCS)},
 	Year = {2018},
 	Bdsk-Url-1 = {http://dl.acm.org/citation.cfm?id=3243734}}
-
-@Comment{jabref-meta: databaseType:biblatex;}

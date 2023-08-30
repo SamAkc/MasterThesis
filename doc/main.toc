@@ -1,0 +1,39 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{Abk\"urzungsverzeichnis}{1}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Zielsetzung}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Vorgehensweise}{4}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Verwandte Arbeiten}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Theoretischer Hintergrund}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Der B\"urgerverein Mitte e.V. als Stakeholder}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Das Bamberger Klimamessnetz als Grundlage der Sensordaten}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Die Netatmo API - eine Schnittstelle zwischen Sensordaten und Stakeholder}{7}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Partizipatives Crowdsensing als Technik zur Informationsgewinnung}{7}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Crowdsensing vs. Crowdsourcing}{7}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Konzept}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Grundgedanke hinter einem Crowdsensing-Tool}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Entwurf}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Use Cases}{9}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Anforderungsanalyse}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Ausgangslage in Bamberg}{11}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Identifikation der Stakeholder}{11}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Methodik zur Gewinnung der Anforderungen}{11}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Definition der Anforderungen}{11}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}User Story \#1}{11}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}User Story \#2}{11}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Analyse der Anforderungen}{11}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Implementierung und Design}{13}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Methodologie der Implementierung}{13}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Architektur f\"ur das Front-End}{13}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Architektur f\"ur das Back-End}{13}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Diskussion und Evaluation}{15}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Implikationen der Theorie}{15}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Implikationen der Praxis}{15}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Limitationen der Arbeit}{15}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Fazit und Ausblick}{17}{chapter.8}%
+\def \chaptername {Appendix}
+\contentsline {chapter}{Literaturverzeichnis}{19}{appendix*.5}%
+\contentsline {chapter}{Eidesstattliche Erkl\"arung}{21}{appendix*.6}%
