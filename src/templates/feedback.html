@@ -1,1 +1,44 @@
 {% extends 'base.html' %}
+
+{% block head %}
+<title>Feedback</title>
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-language" content="de" />
+<link rel="stylesheet" type="text/css" href="../static/css/styles.css">
+</link>
+{% endblock %}
+
+{% block javascript %}
+
+{% endblock %}
+
+{% block content %}
+<select id="select">
+    <option value="Verbesserungsvorschlag">Verbesserungsvorschlag</option>
+    <option value="Bug">Bug</option>
+    <option value="Feedback">Feedback</option>
+</select>
+<textarea id="input" placeholder="Gib hier deinen Text ein"></textarea>
+<button id="button">Feedback abschicken</button>
+<script>
+    // Hier kommt der JS-Code hin
+    var button = document.getElementById("button");
+    var input = document.getElementById("input");
+    var select = document.getElementById("select");
+
+    button.addEventListener("click", function () {
+        // Hier kannst du die Logik zum Abschicken des Feedbacks implementieren
+        // Zum Beispiel kannst du einen AJAX-Request an einen Server senden
+        // oder die Daten in einer Datenbank speichern
+        // oder eine E-Mail an einen Empfänger schicken
+        // oder einfach eine Nachricht auf der Konsole ausgeben
+        console.log("Feedback abgeschickt:");
+        console.log("Kategorie: " + select.value);
+        console.log("Text: " + input.value);
+        // Hier kannst du auch das Eingabefeld leeren oder eine Bestätigungsnachricht anzeigen
+        input.value = "";
+        alert("Danke für dein Feedback!");
+    });
+</script>
+{% endblock %}

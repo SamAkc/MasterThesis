@@ -1,9 +1,45 @@
-\chapter{Theoretischer Hintergrund} % Kapitel zum theoretischen Hintergrund
-% Definitionen und Begrifflichkeiten erläutern um Baseline zu setzen
+\chapter{Hintergrund} % Kapitel zum theoretischen Hintergrund
+In diesem Abschnitt der Arbeit geht es darum, eine Grundlinie des theoretischen Hintergrunds zu schaffen. Dieser Aspekt wird dadurch umgesetzt, indem 
+zunächst der Begriff des \enquote{Crowdsensings} mit dem in der Literatur weitverbreiteten Begriff des \enquote{Crowdsourcings} abgegrenzt wird. Infolgedessen ist es somit in den folgenden Kapiteln möglich, 
+den Begriff des Crowdsensings in den Kontext der Arbeit zu setzen. Im Anschluss werden verwandte Arbeiten vorgestellt, welche sich mit dem Thema des Crowdsensings und der Umsetzung von Plattformen mit diesem 
+Hintergrund beschäftigen.
 
 \section{Crowdsensing vs. Crowdsourcing}
 % Hier mit Verwandten Arbeiten vergleichen
+In der Literatur wird der Begriff des (mobilen) Crowdsensings durch das Vorhandensein einer großen Anzahl an Teilnehmenden für eine großflächige Überwachung der Umwelt 
+beschrieben, welche rohe Daten mithilfe von in smarte Geräte eingebettete Sensoren messen \cite{Ray2022}. Um an den Begriff des Crowdsensings heranzutreten, wird aber zunächst 
+zwischen zwei Arten des Messens unterschieden: dem sogenannten \enquote{personal sensing}, in dessen Anwendung Individuen persönliche Informationen aus eigenem Interesse oder 
+Bedarf (z.B. Messungen zum Überwachen der eigenen Gesundheit, aber auch zum Nachverfolgen von persönlichen Rekorden oder dem ökologischen Fußabdruck) messen und dem \enquote{community sensing}, 
+bei welchem großflächige Phänomene, welche durch einzelne Individuen nicht gemessen werden können, untersucht werden \cite{Ganti2011}. \newline Als Beispiele können hierfür sämtliche Anwendungsfälle 
+genannt werden, in denen die Teilnahme von mehreren Individuen (unter Umständen zur selben Zeit) unabdingbar ist, wie beim Messen der Temperatur, der Luftfeuchtigkeit oder der Luftqualität an 
+verschiedenen Orten. Der Begriff des \enquote{community sensing} kann hierbei weiterhin in zwei Kategorien unterteilt werden, dem sogenannten \enquote{participatory sensing} \cite{Burke2006} 
+und dem \enquote{opportunistic sensing} \cite{Lane2010}: \newline Während bei Ersterem eine aktive Teilnahme, verbunden mit eigenmotiviertem Aufwand (z.B. Aufnahme von Fotos, Eingabe und Übermittlung von Information), 
+notwendig ist, wird bei Letzterem eher ein minimaler Aufwand durch eine selbstständige Messung der Sensoren (z.B. kontinuierliche Temperaturmessung der Sensoren in Abhängigkeit vom Standort, ohne Eingaben der 
+Nutzenden) betrieben \cite{Ganti2011}. Aus diesem Grund bildet der Begriff des Crowdsensing in der Literatur keine eindeutige Art der Messung, sondern vielmehr eine Domäne der genannten Arten an Messungen durch 
+eine Gruppe von Individuen \cite{Ganti2011}. \newline Das mobile Crowdsensing kann dabei in drei Schritte unterteilt werden: der Datenerhebung, der Datensammlung und dem Datenupload \cite{Ray2022}. Die Datenerhebung erfolgt dabei 
+sowohl durch die User, als auch durch \enquote{mobile sensing devices} (z.B. Thermometer, Smartphones etc.), welche auf einem Server gesammelt werden um im Anschluss hochgeladen werden können, um sich z.B. einer Qualitätskontrolle zu 
+unterziehen \cite{Ray2022}. Die Vorteile des mobilen Crowdsensing erstrecken sich dabei von schneller Erhebung von vielfältigeren Daten mit erhöhter Qualität der Ergebnisse, bis hin zu akzeptableren Ergebnissen und das Auslagern von Rechenleistung 
+von einer zentralen Plattform zu bspw. den mobilen Geräten \cite{Ray2022}. Auf der anderen Seite kann man jedoch beobachten, dass die erhobenen Daten geprägt von Redundanzen und Duplikaten sind, was zur Folge hat, dass eine 
+anschließende Qualitätskontrolle und die Notwendigkeit von mehr Speicherplatz unabdingbar sind \cite{Ray2022}. Es lassen sich häufig Smartphones als Messgeräte des mobilen Crowdsensing in der Literatur finden, da diese mit einer vielzahl 
+an Sensoren (Temperatur-, Gyroskop-, Umgebungslichtsensoren etc.) ausgestattet sind - das mobile Crowdsensing ist aber nicht auf diese limitiert und beinhaltet auch Geräte wie mobile Wetterstationen, Bewegungssensoren, Kameras o.Ä. 
 
-\section{Partizipatives Crowdsensing als Technik zur Informationsgewinnung}
+Das mobile Crowdsourcing ermöglicht das Lösen einer komplexen Aufgabe durch die Auf- und Verteilung von Aufgaben an eine Gruppe von freiwilligen Nutzenden, hier über das Internet \cite{Wang2019}. Die Komposition \enquote{Crowdsourcing} besteht dabei 
+aus den beiden einzelnen Begriffen \textit{crowd} für die (Menschen-)Menge und \textit{sourcing} für die Beschaffung (hier: von Informationen). Erstmalig wurde der Begriff 2006 vom Journalisten Jeff Howe in einem Artikel verwendet, welcher das Crowdsourcing 
+als kostengünstigere Alternative des \textit{Outsourcing}\sidenote{zu deutsch: Auslagerung, \enquote{mittel- bis langfristige Übertragung von Aufgaben der Informationsverarbeitung eines Unternehmens an ein spezialisiertes Unternehmen} \cite{Heinrich2014}} 
+beschreibt, um Akteure aus unterschiedlichen Wissensständen und Domänen in die Softwareentwicklung miteinzubinden \cite{Howe2006}. Im weiteren Verlauf der Verwendung des Begriffs spielen die Charakteristiken ebenfalls eine Rolle: Die Lösung eines Problems wird 
+insofern erreicht, dass die Aufgaben (und unter Umständen auch Unteraufgaben, abhängig von Problemstellung) an eine (Menschen-)Menge übertragen werden, welche interessiert an der Lösung des Problems sind \cite{Ray2022}. Weiterhin wird die Verteilung der Menge 
+und die Existenz von variierender Menschenlogik genutzt, um Probleme an jenen Computer scheitern, zu lösen \cite{Ray2022}. Der Unterschied zum Crowdsensing ist hierbei, dass die verrichtete Arbeit nicht auf die Interaktion mit Geräten und den entsprechenden Sensoren 
+ist, sondern dass Arbeit im Allgemeinen verrichtet wird (vergleiche Parallele zwischen Crowdsourcing und Outsourcing). Beim Einsatz vom mobilen Crowdsensing ist vorteilhaft, dass Kosten durch nicht-benötigte Arbeitskräfte basierend auf einer expliziten Arbeitszeit 
+verringert sind, der Einsatz einer Menge als Folge davon eine vielfältigere und qualitativ hochwertigere Datensammlung nach sich zieht und die Verfügbarkeit von vielfältigen Parametern zum Testen in Summe in eine hohe Zeitersparnis resultieren \cite{Ray2022}.
+
+Aus den Definitionen der beiden Begriffe wird deutlich, dass diese viele Gemeinsamkeiten aufweisen, was der Grund dafür ist, dass in der Umgangssprache, aber auch in der Literatur eine Verwechslung beider Begriffe auftreten kann. Aufgrund dessen ist es erforderlich, die 
+Abgrenzung der Begriffe voneinander hervorzuheben, welche sich in der Bearbeitung der Aufgaben und der Notwendigkeit von menschlicher Intelligenz findet: Während das mobile Crowdsensing die Aufgaben auf das Erfassen von Rohdaten begrenzt, erstrecken sich Aufgaben beim 
+Crowdsourcing über die Erfassung von Rohdaten bis zu anderen, von der Plattform zugewiesenen (allgemeinen) Aufgaben hinaus \cite{Ray2022}. Für eben diese Aufgaben wird dementsprechend auch eine bestimmte menschliche Intelligenz vorausgesetzt, die mit der Rechenleistung 
+zusammenarbeiten soll, um eine Lösung zu finden \cite{Ray2022}.
 
 \section{Verwandte Arbeiten}
+% Hier mit Verwandten Arbeiten vergleichen
+Der Aspekt des Crowdsensing lässt sich sowohl in der Literatur, als auch in der Praxis durch bereits existierende Projekte und Anwendungen vorfinden. Um ein grundlegendes Verständnis über das Thema und zur Definition eines theoretischen Rahmens zu schaffen, wurden diese verwandten 
+Arbeiten herangezogen, welche in diesem Kapitel vorgestellt werden. \newline Bei der ersten Arbeit handelt es sich um \enquote{Crowdsensing für Bodensee Online}, ein von der ISB AG, vom Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung und der Ingenieurgesellschaft Prof. Kobus und Partner GmbH 
+im Februar 2020 initiiertes Projekt zur Messung der Wassertemperatur des Bodensees durch Bootsbesitzer*innen mithilfe von mobilen Sensoren und Karten \cite{Ministerium2021}. Dabei geht es primär darum, die bereits vorhandenen Kenntnisse über die Verhältnisse am Bodensee durch einen citizen-science Ansatz zu erweitern und 
+auf die Durchführbarkeit zu messen \cite{Bodensee2021}.

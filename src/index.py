@@ -10,6 +10,10 @@ def home():
 def feedback():
     return render_template('feedback.html')
 
+@app.route("/sensorinspector")
+def sensorinspector():
+    return render_template('sensorinspector.html')    
+
 @app.route("/login")
 def login():
     return render_template('login.html')

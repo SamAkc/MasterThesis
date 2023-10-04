@@ -16,5 +16,744 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Burke2006}{article}{}
+      \name{author}{7}{}{%
+        {{hash=49958e693bda5d246eef0d6aa7c4e398}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=222e100454bced2fd8e9e786fce92f41}{%
+           family={Estrin},
+           familyi={E\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod}}}%
+        {{hash=23b3bc585b63302674d0d6211c72bca7}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a1b5337f7fa554cb7e1b21926d88256e}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a1e03783ab23796b124035986b0f40f0}{%
+           family={Ramanathan},
+           familyi={R\bibinitperiod},
+           given={Nithya},
+           giveni={N\bibinitperiod}}}%
+        {{hash=042f23ec04372775575d241c5f56a695}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={Sasank},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1368e0d5683898238815a3396fbfcd82}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Mani\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a916f46e33586cde3cc82f7304923a09}
+      \strng{fullhash}{8214ca5f1b34bc4309cc76a6dff2c534}
+      \strng{bibnamehash}{a916f46e33586cde3cc82f7304923a09}
+      \strng{authorbibnamehash}{a916f46e33586cde3cc82f7304923a09}
+      \strng{authornamehash}{a916f46e33586cde3cc82f7304923a09}
+      \strng{authorfullhash}{8214ca5f1b34bc4309cc76a6dff2c534}
+      \field{labelalpha}{Bur+06}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Participatory sensing}
+      \field{year}{2006}
+    \endentry
+    \entry{Ganti2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=708f1aaced955be006b88136bec9e735}{%
+           family={Ganti},
+           familyi={G\bibinitperiod},
+           given={Raghu\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c11bd128b690cf48da17ef8779fc89dd}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=27c0b40dd93a1b0fdd6cbaeb52873c6c}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{fullhash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{bibnamehash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{authorbibnamehash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{authornamehash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{authorfullhash}{481d2f693ca86b4291810d46b4d46e0b}
+      \field{labelalpha}{GYL11}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Internet of Things}
+      \field{title}{Mobile Crowdsensing: Current State and Future Challenges}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Heinrich2014}{book}{}
+      \name{author}{3}{}{%
+        {{hash=b853afccae189526b3024080ca9fd317}{%
+           family={Heinrich},
+           familyi={H\bibinitperiod},
+           given={L.J.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f74c562815b3ca2cf24c74537d4585f9}{%
+           family={Heinzl},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c3be4f9092a1d3c7cdd2351bec3487bc}{%
+           family={Roithmayr},
+           familyi={R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oldenbourg Wissenschaftsverlag GmbH}%
+      }
+      \strng{namehash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{fullhash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{bibnamehash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{authorbibnamehash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{authornamehash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{authorfullhash}{b94bc18677b737965a0becc5f4b3ec18}
+      \field{labelalpha}{HHR04}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3486275402}
+      \field{title}{Wirtschaftsinformatik-Lexikon}
+      \field{year}{2004}
+    \endentry
+    \entry{Howe2006}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=47068ad60ba5b0dd640320022ccf53aa}{%
+           family={Howe},
+           familyi={H\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{fullhash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{bibnamehash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{authorbibnamehash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{authornamehash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{authorfullhash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \field{labelalpha}{How+06}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wired magazine}
+      \field{number}{6}
+      \field{title}{The rise of crowdsourcing}
+      \field{volume}{14}
+      \field{year}{2006}
+      \field{pages}{176\bibrangedash 183}
+      \range{pages}{8}
+    \endentry
+    \entry{Bodensee2021}{online}{}
+      \name{author}{3}{}{%
+        {{hash=29bbae38a8968e146768b2c8012dfabd}{%
+           family={{ISB AG}},
+           familyi={I\bibinitperiod}}}%
+        {{hash=74d71b9b54d2a4d73ab64da7d82b1f9b}{%
+           family={{Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung}},
+           familyi={F\bibinitperiod}}}%
+        {{hash=6fead9af0aa085754c4d17664f8cd7d8}{%
+           family={{Ingenieurgesellschaft Prof. Kobus und Partner GmbH}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{74183298ca52ccb766e2a251441c3219}
+      \strng{fullhash}{74183298ca52ccb766e2a251441c3219}
+      \strng{bibnamehash}{74183298ca52ccb766e2a251441c3219}
+      \strng{authorbibnamehash}{74183298ca52ccb766e2a251441c3219}
+      \strng{authornamehash}{74183298ca52ccb766e2a251441c3219}
+      \strng{authorfullhash}{74183298ca52ccb766e2a251441c3219}
+      \field{labelalpha}{IFI21}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{month}{7}
+      \field{title}{Das Projekt \enquote{CrowdSensing für Bodensee Online}}
+      \field{titleaddon}{Erfahrungsbericht der Projektbeteiligten}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Nachhaltigkeit_und_Umweltbildung/Digitalisierung/CrowdSensing-fuer-Bodensee-Online-Zusammenfassung.pdf
+      \endverb
+      \verb{url}
+      \verb https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Nachhaltigkeit_und_Umweltbildung/Digitalisierung/CrowdSensing-fuer-Bodensee-Online-Zusammenfassung.pdf
+      \endverb
+    \endentry
+    \entry{Lane2010}{article}{}
+      \name{author}{6}{}{%
+        {{hash=0178a10937afeee8b3947b80841a4c65}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Nicholas\bibnamedelima D},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=00c215fa194ccd445e8b1622392decde}{%
+           family={Miluzzo},
+           familyi={M\bibinitperiod},
+           given={Emiliano},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9c40c3b619134b612c9fcfc25331580e}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=469801a3ede224087380d313d60c608e}{%
+           family={Peebles},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ec4c2787b7e3f3c6d2ecc24dd7118022}{%
+           family={Choudhury},
+           familyi={C\bibinitperiod},
+           given={Tanzeem},
+           giveni={T\bibinitperiod}}}%
+        {{hash=50e43289bfe2085b08c2d6236cca77d4}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima T},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{32c3b12c04171268157b17f3da1efe6b}
+      \strng{fullhash}{6a57cd73554827701713ca41647e48c8}
+      \strng{bibnamehash}{32c3b12c04171268157b17f3da1efe6b}
+      \strng{authorbibnamehash}{32c3b12c04171268157b17f3da1efe6b}
+      \strng{authornamehash}{32c3b12c04171268157b17f3da1efe6b}
+      \strng{authorfullhash}{6a57cd73554827701713ca41647e48c8}
+      \field{labelalpha}{Lan+10}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications magazine}
+      \field{number}{9}
+      \field{title}{A survey of mobile phone sensing}
+      \field{volume}{48}
+      \field{year}{2010}
+      \field{pages}{140\bibrangedash 150}
+      \range{pages}{11}
+    \endentry
+    \entry{Ministerium2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=787eabcaa181be8c3809595b94f5a20e}{%
+           family={{Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{fullhash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{bibnamehash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{authorbibnamehash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{authornamehash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{authorfullhash}{787eabcaa181be8c3809595b94f5a20e}
+      \field{labelalpha}{Min21}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{month}{11}
+      \field{title}{Projekt \enquote{Crowdsensing} für Bodensee Online}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://um.baden-wuerttemberg.de/de/umwelt-natur/nachhaltigkeit/nachhaltige-digitalisierung/projekte/crowdsensing-bodensee/
+      \endverb
+      \verb{url}
+      \verb https://um.baden-wuerttemberg.de/de/umwelt-natur/nachhaltigkeit/nachhaltige-digitalisierung/projekte/crowdsensing-bodensee/
+      \endverb
+    \endentry
+    \entry{Ray2022}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0b22b1bc4c54eb8fe9457997f4170ac0}{%
+           family={Ray},
+           familyi={R\bibinitperiod},
+           given={Aripita},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0fdb2fcd34387d69fa6ae0fd8e1b0889}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Chandreyee},
+           giveni={C\bibinitperiod}}}%
+        {{hash=94eea07262a6925ecbeafb684dee1d15}{%
+           family={Bhattacharya},
+           familyi={B\bibinitperiod},
+           given={Subhayan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dce1d8d9e724593a546789fc03d28435}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Sarbani},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f07442d5c38256eb82e107a6710e84b9}
+      \strng{fullhash}{45fc6dd608a2d6d050f630ec9a59014b}
+      \strng{bibnamehash}{f07442d5c38256eb82e107a6710e84b9}
+      \strng{authorbibnamehash}{f07442d5c38256eb82e107a6710e84b9}
+      \strng{authornamehash}{f07442d5c38256eb82e107a6710e84b9}
+      \strng{authorfullhash}{45fc6dd608a2d6d050f630ec9a59014b}
+      \field{labelalpha}{Ray+22}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CCF Transactions on Pervasive Computing and Interaction}
+      \field{title}{A survey of mobile crowdsensing and crowdsourcing strategies for smart mobile device users}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Wang2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=66b60f9bafb01a88931be1140c97dab3}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yingjie},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=32887024e9e5d2743d9caf6fe9112748}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Zhipeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ddcbbde7f8d5969d3a8658eeb81b16e5}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Zhi-Hui},
+           giveni={Z\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=004d2a1535d0ba7e430406e684de6136}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Yue-Jiao},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=851489238ff927c22a8d4f3fbeefca1c}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Xiangrong},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7418ffef25f8cd2239faa0c8a0f91a2}
+      \strng{fullhash}{6ee9e84ab0d98c583761c30b4effe7f6}
+      \strng{bibnamehash}{a7418ffef25f8cd2239faa0c8a0f91a2}
+      \strng{authorbibnamehash}{a7418ffef25f8cd2239faa0c8a0f91a2}
+      \strng{authornamehash}{a7418ffef25f8cd2239faa0c8a0f91a2}
+      \strng{authorfullhash}{6ee9e84ab0d98c583761c30b4effe7f6}
+      \field{labelalpha}{Wan+19}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Computational Social Systems}
+      \field{number}{3}
+      \field{title}{An Optimization and Auction-Based Incentive Mechanism to Maximize Social Welfare for Mobile Crowdsourcing}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{414\bibrangedash 429}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/TCSS.2019.2907059
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{anyt/global//global/global}
+    \entry{Burke2006}{article}{}
+      \name{author}{7}{}{%
+        {{hash=49958e693bda5d246eef0d6aa7c4e398}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=222e100454bced2fd8e9e786fce92f41}{%
+           family={Estrin},
+           familyi={E\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod}}}%
+        {{hash=23b3bc585b63302674d0d6211c72bca7}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a1b5337f7fa554cb7e1b21926d88256e}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a1e03783ab23796b124035986b0f40f0}{%
+           family={Ramanathan},
+           familyi={R\bibinitperiod},
+           given={Nithya},
+           giveni={N\bibinitperiod}}}%
+        {{hash=042f23ec04372775575d241c5f56a695}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={Sasank},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1368e0d5683898238815a3396fbfcd82}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Mani\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a916f46e33586cde3cc82f7304923a09}
+      \strng{fullhash}{8214ca5f1b34bc4309cc76a6dff2c534}
+      \strng{bibnamehash}{a916f46e33586cde3cc82f7304923a09}
+      \strng{authorbibnamehash}{a916f46e33586cde3cc82f7304923a09}
+      \strng{authornamehash}{a916f46e33586cde3cc82f7304923a09}
+      \strng{authorfullhash}{8214ca5f1b34bc4309cc76a6dff2c534}
+      \field{labelalpha}{Bur+06}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Participatory sensing}
+      \field{year}{2006}
+    \endentry
+    \entry{Ganti2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=708f1aaced955be006b88136bec9e735}{%
+           family={Ganti},
+           familyi={G\bibinitperiod},
+           given={Raghu\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c11bd128b690cf48da17ef8779fc89dd}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=27c0b40dd93a1b0fdd6cbaeb52873c6c}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{fullhash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{bibnamehash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{authorbibnamehash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{authornamehash}{481d2f693ca86b4291810d46b4d46e0b}
+      \strng{authorfullhash}{481d2f693ca86b4291810d46b4d46e0b}
+      \field{labelalpha}{GYL11}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Internet of Things}
+      \field{title}{Mobile Crowdsensing: Current State and Future Challenges}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Heinrich2014}{book}{}
+      \name{author}{3}{}{%
+        {{hash=b853afccae189526b3024080ca9fd317}{%
+           family={Heinrich},
+           familyi={H\bibinitperiod},
+           given={L.J.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f74c562815b3ca2cf24c74537d4585f9}{%
+           family={Heinzl},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c3be4f9092a1d3c7cdd2351bec3487bc}{%
+           family={Roithmayr},
+           familyi={R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oldenbourg Wissenschaftsverlag GmbH}%
+      }
+      \strng{namehash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{fullhash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{bibnamehash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{authorbibnamehash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{authornamehash}{b94bc18677b737965a0becc5f4b3ec18}
+      \strng{authorfullhash}{b94bc18677b737965a0becc5f4b3ec18}
+      \field{labelalpha}{HHR04}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3486275402}
+      \field{title}{Wirtschaftsinformatik-Lexikon}
+      \field{year}{2004}
+    \endentry
+    \entry{Howe2006}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=47068ad60ba5b0dd640320022ccf53aa}{%
+           family={Howe},
+           familyi={H\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{fullhash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{bibnamehash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{authorbibnamehash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{authornamehash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \strng{authorfullhash}{0b887fa9bc5d8a166e05fb34dad02c79}
+      \field{labelalpha}{How+06}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wired magazine}
+      \field{number}{6}
+      \field{title}{The rise of crowdsourcing}
+      \field{volume}{14}
+      \field{year}{2006}
+      \field{pages}{176\bibrangedash 183}
+      \range{pages}{8}
+    \endentry
+    \entry{Bodensee2021}{online}{}
+      \name{author}{3}{}{%
+        {{hash=29bbae38a8968e146768b2c8012dfabd}{%
+           family={{ISB AG}},
+           familyi={I\bibinitperiod}}}%
+        {{hash=74d71b9b54d2a4d73ab64da7d82b1f9b}{%
+           family={{Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung}},
+           familyi={F\bibinitperiod}}}%
+        {{hash=6fead9af0aa085754c4d17664f8cd7d8}{%
+           family={{Ingenieurgesellschaft Prof. Kobus und Partner GmbH}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{74183298ca52ccb766e2a251441c3219}
+      \strng{fullhash}{74183298ca52ccb766e2a251441c3219}
+      \strng{bibnamehash}{74183298ca52ccb766e2a251441c3219}
+      \strng{authorbibnamehash}{74183298ca52ccb766e2a251441c3219}
+      \strng{authornamehash}{74183298ca52ccb766e2a251441c3219}
+      \strng{authorfullhash}{74183298ca52ccb766e2a251441c3219}
+      \field{labelalpha}{IFI21}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{month}{7}
+      \field{title}{Das Projekt \enquote{CrowdSensing für Bodensee Online}}
+      \field{titleaddon}{Erfahrungsbericht der Projektbeteiligten}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Nachhaltigkeit_und_Umweltbildung/Digitalisierung/CrowdSensing-fuer-Bodensee-Online-Zusammenfassung.pdf
+      \endverb
+      \verb{url}
+      \verb https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Nachhaltigkeit_und_Umweltbildung/Digitalisierung/CrowdSensing-fuer-Bodensee-Online-Zusammenfassung.pdf
+      \endverb
+    \endentry
+    \entry{Lane2010}{article}{}
+      \name{author}{6}{}{%
+        {{hash=0178a10937afeee8b3947b80841a4c65}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Nicholas\bibnamedelima D},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=00c215fa194ccd445e8b1622392decde}{%
+           family={Miluzzo},
+           familyi={M\bibinitperiod},
+           given={Emiliano},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9c40c3b619134b612c9fcfc25331580e}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=469801a3ede224087380d313d60c608e}{%
+           family={Peebles},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ec4c2787b7e3f3c6d2ecc24dd7118022}{%
+           family={Choudhury},
+           familyi={C\bibinitperiod},
+           given={Tanzeem},
+           giveni={T\bibinitperiod}}}%
+        {{hash=50e43289bfe2085b08c2d6236cca77d4}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima T},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{32c3b12c04171268157b17f3da1efe6b}
+      \strng{fullhash}{6a57cd73554827701713ca41647e48c8}
+      \strng{bibnamehash}{32c3b12c04171268157b17f3da1efe6b}
+      \strng{authorbibnamehash}{32c3b12c04171268157b17f3da1efe6b}
+      \strng{authornamehash}{32c3b12c04171268157b17f3da1efe6b}
+      \strng{authorfullhash}{6a57cd73554827701713ca41647e48c8}
+      \field{labelalpha}{Lan+10}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications magazine}
+      \field{number}{9}
+      \field{title}{A survey of mobile phone sensing}
+      \field{volume}{48}
+      \field{year}{2010}
+      \field{pages}{140\bibrangedash 150}
+      \range{pages}{11}
+    \endentry
+    \entry{Ministerium2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=787eabcaa181be8c3809595b94f5a20e}{%
+           family={{Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{fullhash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{bibnamehash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{authorbibnamehash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{authornamehash}{787eabcaa181be8c3809595b94f5a20e}
+      \strng{authorfullhash}{787eabcaa181be8c3809595b94f5a20e}
+      \field{labelalpha}{Min21}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{month}{11}
+      \field{title}{Projekt \enquote{Crowdsensing} für Bodensee Online}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://um.baden-wuerttemberg.de/de/umwelt-natur/nachhaltigkeit/nachhaltige-digitalisierung/projekte/crowdsensing-bodensee/
+      \endverb
+      \verb{url}
+      \verb https://um.baden-wuerttemberg.de/de/umwelt-natur/nachhaltigkeit/nachhaltige-digitalisierung/projekte/crowdsensing-bodensee/
+      \endverb
+    \endentry
+    \entry{Ray2022}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0b22b1bc4c54eb8fe9457997f4170ac0}{%
+           family={Ray},
+           familyi={R\bibinitperiod},
+           given={Aripita},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0fdb2fcd34387d69fa6ae0fd8e1b0889}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Chandreyee},
+           giveni={C\bibinitperiod}}}%
+        {{hash=94eea07262a6925ecbeafb684dee1d15}{%
+           family={Bhattacharya},
+           familyi={B\bibinitperiod},
+           given={Subhayan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dce1d8d9e724593a546789fc03d28435}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Sarbani},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f07442d5c38256eb82e107a6710e84b9}
+      \strng{fullhash}{45fc6dd608a2d6d050f630ec9a59014b}
+      \strng{bibnamehash}{f07442d5c38256eb82e107a6710e84b9}
+      \strng{authorbibnamehash}{f07442d5c38256eb82e107a6710e84b9}
+      \strng{authornamehash}{f07442d5c38256eb82e107a6710e84b9}
+      \strng{authorfullhash}{45fc6dd608a2d6d050f630ec9a59014b}
+      \field{labelalpha}{Ray+22}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CCF Transactions on Pervasive Computing and Interaction}
+      \field{title}{A survey of mobile crowdsensing and crowdsourcing strategies for smart mobile device users}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Wang2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=66b60f9bafb01a88931be1140c97dab3}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yingjie},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=32887024e9e5d2743d9caf6fe9112748}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Zhipeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ddcbbde7f8d5969d3a8658eeb81b16e5}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Zhi-Hui},
+           giveni={Z\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=004d2a1535d0ba7e430406e684de6136}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Yue-Jiao},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=851489238ff927c22a8d4f3fbeefca1c}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Xiangrong},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7418ffef25f8cd2239faa0c8a0f91a2}
+      \strng{fullhash}{6ee9e84ab0d98c583761c30b4effe7f6}
+      \strng{bibnamehash}{a7418ffef25f8cd2239faa0c8a0f91a2}
+      \strng{authorbibnamehash}{a7418ffef25f8cd2239faa0c8a0f91a2}
+      \strng{authornamehash}{a7418ffef25f8cd2239faa0c8a0f91a2}
+      \strng{authorfullhash}{6ee9e84ab0d98c583761c30b4effe7f6}
+      \field{labelalpha}{Wan+19}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Computational Social Systems}
+      \field{number}{3}
+      \field{title}{An Optimization and Auction-Based Incentive Mechanism to Maximize Social Welfare for Mobile Crowdsourcing}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{414\bibrangedash 429}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/TCSS.2019.2907059
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
