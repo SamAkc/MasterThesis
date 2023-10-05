@@ -1,0 +1,39 @@
+version: '3.8'
+services:
+  postgresql:
+    container_name: postgresql
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_DB: db
+      POSTGRES_USER: samet
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgresql:/var/lib/postgresql/data
+      - ./data:/data
+
+  grafana:
+    container_name: grafana
+    image: grafana/grafana:latest
+    user: "0:0"
+    environment:
+      GF_DATABASE_TYPE: postgres
+      GF_DATABASE_HOST: postgresql:5432
+      GF_DATABASE_NAME: db
+      GF_DATABASE_USER: samet
+      GF_DATABASE_PASSWORD: admin
+      GF_DATABASE_SSL_MODE: disable
+    restart: unless-stopped
+    depends_on:
+      - postgresql
+    ports:
+      - 3000:3000
+    volumes:
+      - grafana:/var/lib/grafana
+volumes:
+  postgresql:
+    driver: local
+  grafana:
+    driver: local
