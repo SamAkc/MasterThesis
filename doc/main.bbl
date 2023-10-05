@@ -264,6 +264,36 @@
       \field{pages}{140\bibrangedash 150}
       \range{pages}{11}
     \endentry
+    \entry{langguth2011review}{article}{}
+      \name{author}{1}{}{%
+        {{hash=66c0a185a3b0b4cefbe5246616b6e1a0}{%
+           family={Langguth},
+           familyi={L\bibinitperiod},
+           given={Berthold},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{fullhash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{bibnamehash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{authorbibnamehash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{authornamehash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{authorfullhash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \field{labelalpha}{Lan11}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current medical research and opinion}
+      \field{number}{8}
+      \field{title}{A review of tinnitus symptoms beyond ‘ringing in the ears’: a call to action}
+      \field{volume}{27}
+      \field{year}{2011}
+      \field{pages}{1635\bibrangedash 1643}
+      \range{pages}{9}
+    \endentry
     \entry{Ministerium2021}{online}{}
       \name{author}{1}{}{%
         {{hash=787eabcaa181be8c3809595b94f5a20e}{%
@@ -295,6 +325,114 @@
       \verb{url}
       \verb https://um.baden-wuerttemberg.de/de/umwelt-natur/nachhaltigkeit/nachhaltige-digitalisierung/projekte/crowdsensing-bodensee/
       \endverb
+    \endentry
+    \entry{pryss2015mobile}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=943b18ce9781fbea872c00379f878e34}{%
+           family={Pryss},
+           familyi={P\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8eaa44e89e43f01f5d0fd74865b3bb51}{%
+           family={Reichert},
+           familyi={R\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=66c0a185a3b0b4cefbe5246616b6e1a0}{%
+           family={Langguth},
+           familyi={L\bibinitperiod},
+           given={Berthold},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f462da1ae9c675d9446d84e440b62416}{%
+           family={Schlee},
+           familyi={S\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{064828801c80617a05eabb68d128fe02}
+      \strng{fullhash}{8839cf987d918dc6fb1c710ddb4ecd74}
+      \strng{bibnamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authorbibnamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authornamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authorfullhash}{8839cf987d918dc6fb1c710ddb4ecd74}
+      \field{extraname}{1}
+      \field{labelalpha}{Pry+15}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 IEEE international conference on mobile services}
+      \field{title}{Mobile crowd sensing services for tinnitus assessment, therapy, and research}
+      \field{year}{2015}
+      \field{pages}{352\bibrangedash 359}
+      \range{pages}{8}
+    \endentry
+    \entry{Pryss2017}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=943b18ce9781fbea872c00379f878e34}{%
+           family={Pryss},
+           familyi={P\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a4c2aeea767dda15c9c6adb53b632ccc}{%
+           family={Probst},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f462da1ae9c675d9446d84e440b62416}{%
+           family={Schlee},
+           familyi={S\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod}}}%
+        {{hash=45862ea90acaf6c2e76aa7fe0a68d443}{%
+           family={Schobel},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=66c0a185a3b0b4cefbe5246616b6e1a0}{%
+           family={Langguth},
+           familyi={L\bibinitperiod},
+           given={Berthold},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8ba29c297bcb1a2c51deab03dfb3fe6e}{%
+           family={Neff},
+           familyi={N\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6a34223729914e9e416bbcfb542d18af}{%
+           family={Spiliopoulou},
+           familyi={S\bibinitperiod},
+           given={Myra},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8eaa44e89e43f01f5d0fd74865b3bb51}{%
+           family={Reichert},
+           familyi={R\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{064828801c80617a05eabb68d128fe02}
+      \strng{fullhash}{c3b360de5ae19a4f02b863c4f352f51f}
+      \strng{bibnamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authorbibnamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authornamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authorfullhash}{c3b360de5ae19a4f02b863c4f352f51f}
+      \field{extraname}{2}
+      \field{labelalpha}{Pry+17}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE 30th International Symposium on Computer-Based Medical Systems (CBMS)}
+      \field{title}{Mobile crowdsensing for the juxtaposition of realtime assessments and retrospective reporting for neuropsychiatric symptoms}
+      \field{year}{2017}
+      \field{pages}{642\bibrangedash 647}
+      \range{pages}{6}
     \endentry
     \entry{Ray2022}{article}{}
       \name{author}{4}{}{%
@@ -632,6 +770,36 @@
       \field{pages}{140\bibrangedash 150}
       \range{pages}{11}
     \endentry
+    \entry{langguth2011review}{article}{}
+      \name{author}{1}{}{%
+        {{hash=66c0a185a3b0b4cefbe5246616b6e1a0}{%
+           family={Langguth},
+           familyi={L\bibinitperiod},
+           given={Berthold},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{fullhash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{bibnamehash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{authorbibnamehash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{authornamehash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \strng{authorfullhash}{66c0a185a3b0b4cefbe5246616b6e1a0}
+      \field{labelalpha}{Lan11}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current medical research and opinion}
+      \field{number}{8}
+      \field{title}{A review of tinnitus symptoms beyond ‘ringing in the ears’: a call to action}
+      \field{volume}{27}
+      \field{year}{2011}
+      \field{pages}{1635\bibrangedash 1643}
+      \range{pages}{9}
+    \endentry
     \entry{Ministerium2021}{online}{}
       \name{author}{1}{}{%
         {{hash=787eabcaa181be8c3809595b94f5a20e}{%
@@ -663,6 +831,114 @@
       \verb{url}
       \verb https://um.baden-wuerttemberg.de/de/umwelt-natur/nachhaltigkeit/nachhaltige-digitalisierung/projekte/crowdsensing-bodensee/
       \endverb
+    \endentry
+    \entry{pryss2015mobile}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=943b18ce9781fbea872c00379f878e34}{%
+           family={Pryss},
+           familyi={P\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8eaa44e89e43f01f5d0fd74865b3bb51}{%
+           family={Reichert},
+           familyi={R\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=66c0a185a3b0b4cefbe5246616b6e1a0}{%
+           family={Langguth},
+           familyi={L\bibinitperiod},
+           given={Berthold},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f462da1ae9c675d9446d84e440b62416}{%
+           family={Schlee},
+           familyi={S\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{064828801c80617a05eabb68d128fe02}
+      \strng{fullhash}{8839cf987d918dc6fb1c710ddb4ecd74}
+      \strng{bibnamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authorbibnamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authornamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authorfullhash}{8839cf987d918dc6fb1c710ddb4ecd74}
+      \field{extraname}{1}
+      \field{labelalpha}{Pry+15}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 IEEE international conference on mobile services}
+      \field{title}{Mobile crowd sensing services for tinnitus assessment, therapy, and research}
+      \field{year}{2015}
+      \field{pages}{352\bibrangedash 359}
+      \range{pages}{8}
+    \endentry
+    \entry{Pryss2017}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=943b18ce9781fbea872c00379f878e34}{%
+           family={Pryss},
+           familyi={P\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a4c2aeea767dda15c9c6adb53b632ccc}{%
+           family={Probst},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f462da1ae9c675d9446d84e440b62416}{%
+           family={Schlee},
+           familyi={S\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod}}}%
+        {{hash=45862ea90acaf6c2e76aa7fe0a68d443}{%
+           family={Schobel},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=66c0a185a3b0b4cefbe5246616b6e1a0}{%
+           family={Langguth},
+           familyi={L\bibinitperiod},
+           given={Berthold},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8ba29c297bcb1a2c51deab03dfb3fe6e}{%
+           family={Neff},
+           familyi={N\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6a34223729914e9e416bbcfb542d18af}{%
+           family={Spiliopoulou},
+           familyi={S\bibinitperiod},
+           given={Myra},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8eaa44e89e43f01f5d0fd74865b3bb51}{%
+           family={Reichert},
+           familyi={R\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{064828801c80617a05eabb68d128fe02}
+      \strng{fullhash}{c3b360de5ae19a4f02b863c4f352f51f}
+      \strng{bibnamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authorbibnamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authornamehash}{064828801c80617a05eabb68d128fe02}
+      \strng{authorfullhash}{c3b360de5ae19a4f02b863c4f352f51f}
+      \field{extraname}{2}
+      \field{labelalpha}{Pry+17}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE 30th International Symposium on Computer-Based Medical Systems (CBMS)}
+      \field{title}{Mobile crowdsensing for the juxtaposition of realtime assessments and retrospective reporting for neuropsychiatric symptoms}
+      \field{year}{2017}
+      \field{pages}{642\bibrangedash 647}
+      \range{pages}{6}
     \endentry
     \entry{Ray2022}{article}{}
       \name{author}{4}{}{%
