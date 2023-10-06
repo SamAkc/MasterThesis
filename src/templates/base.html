@@ -1,17 +1,18 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de-de">
+
 <head>
   {% block head %} {% endblock %}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  
+  <link rel="icon" href="favicon.png" type="image/png">
   {% block javascript %} {% endblock %}
 </head>
 
 <body onload="drawmap();">
-  <nav class="navbar navbar-expand-md navbar-light bg-light">
+  <nav class="navbar navbar-expand-md navbar-light bg-dark">
     <a class="navbar-brand" href="{{ url_for('home')}}">
       <img src="../static/img/mobi_logo.png" alt="MOBI_Logo" height="40">
     </a>
@@ -24,8 +25,8 @@
         <li class="nav-item active">
           <a class="nav-link" href="{{ url_for('home')}}">Karte</a>
         </li>
-        <li class=""nav-item active">
-          <a class="nav-link" href="{{ url_for('sensorinspector')}}">Sensorinspektor</a>  
+        <li class="nav-item active">
+          <a class="nav-link" href="{{ url_for('sensorinspector')}}">Sensorinspektor</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="{{ url_for('feedback')}}">Feedback</a>

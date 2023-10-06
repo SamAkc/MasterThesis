@@ -71,6 +71,31 @@
       \field{title}{Participatory sensing}
       \field{year}{2006}
     \endentry
+    \entry{ieee2004}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=71d197735ed6a68f072ddffe45532229}{%
+           family={Committee},
+           familyi={C\bibinitperiod},
+           given={IEEE\bibnamedelimb Computer\bibnamedelimb Society\bibnamedelimb Professional\bibnamedelima Practices},
+           giveni={I\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{546d504bbd664100634efd4b7869d904}
+      \strng{fullhash}{546d504bbd664100634efd4b7869d904}
+      \strng{bibnamehash}{546d504bbd664100634efd4b7869d904}
+      \strng{authorbibnamehash}{546d504bbd664100634efd4b7869d904}
+      \strng{authornamehash}{546d504bbd664100634efd4b7869d904}
+      \strng{authorfullhash}{546d504bbd664100634efd4b7869d904}
+      \field{labelalpha}{Com+04}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Computer Society}
+      \field{title}{SWEBOK: Guide to the Software Engineering Body of Knowledge, 2004 version}
+      \field{year}{2004}
+    \endentry
     \entry{Ganti2011}{article}{}
       \name{author}{3}{}{%
         {{hash=708f1aaced955be006b88136bec9e735}{%
@@ -576,6 +601,31 @@
       \field{labeltitlesource}{title}
       \field{title}{Participatory sensing}
       \field{year}{2006}
+    \endentry
+    \entry{ieee2004}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=71d197735ed6a68f072ddffe45532229}{%
+           family={Committee},
+           familyi={C\bibinitperiod},
+           given={IEEE\bibnamedelimb Computer\bibnamedelimb Society\bibnamedelimb Professional\bibnamedelima Practices},
+           giveni={I\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{546d504bbd664100634efd4b7869d904}
+      \strng{fullhash}{546d504bbd664100634efd4b7869d904}
+      \strng{bibnamehash}{546d504bbd664100634efd4b7869d904}
+      \strng{authorbibnamehash}{546d504bbd664100634efd4b7869d904}
+      \strng{authornamehash}{546d504bbd664100634efd4b7869d904}
+      \strng{authorfullhash}{546d504bbd664100634efd4b7869d904}
+      \field{labelalpha}{Com+04}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Computer Society}
+      \field{title}{SWEBOK: Guide to the Software Engineering Body of Knowledge, 2004 version}
+      \field{year}{2004}
     \endentry
     \entry{Ganti2011}{article}{}
       \name{author}{3}{}{%

@@ -1,6 +1,6 @@
 # Entwicklung eines interaktiven Werkzeugs zur Kuratierung von Umweltdaten einer bürgerinitiierten Crowdsensing-Kampagne
 
-<img src="/misc/mobi_logo.png" alt="MOBI-Logo" width="200" height="200">
+<img src="/misc/mobi_logo.png" alt="MOBI-Logo" width="100" height="100">
 
 In dieser Arbeit soll es darum gehen, den Bürgerinnen und Bürgern der Stadt Bamberg die Möglichkeit zu bieten, die Sensordaten des Klimamessnetzvereins Bamberg (BVM) einzusehen und durch die Funktion des Hinzufügens von Annotationen zu diesen, den Crowdsensing-Aspekt näher zu bringen. Dadurch ergeben sich die Leitfragen, inwieweit sich dies auf die Entwicklung eines solchen Tools auswirkt, inwiefern ein Ansatz wie dieser sinnvoll ist und in der Zukunft berücksichtigt werden sollte.
 

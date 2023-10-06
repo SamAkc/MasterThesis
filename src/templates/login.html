@@ -1,54 +1,24 @@
-<html>
-<head>
-  <style>
-    
-  </style>
-</head>
-<body>
-  <input id="username" type="text" placeholder="Benutzername">
-  <input id="password" type="password" placeholder="Passwort">
-  <button id="login">Anmelden</button>
-  <button id="register">Registrieren</button>
-  <script>
-    // Hier kommt der JS-Code hin
-    var login = document.getElementById("login");
-    var register = document.getElementById("register");
-    var username = document.getElementById("username");
-    var password = document.getElementById("password");
+{% extends 'base.html' %}
 
-    login.addEventListener("click", function() {
-      // Hier kannst du die Logik zum Überprüfen der Anmeldedaten implementieren
-      // Zum Beispiel kannst du einen AJAX-Request an einen Server senden
-      // oder die Daten mit einer lokalen Speicherung vergleichen
-      // oder eine feste Benutzername-Passwort-Kombination verwenden
-      // oder einfach eine Nachricht auf der Konsole ausgeben
-      console.log("Anmeldeversuch:");
-      console.log("Benutzername: " + username.value);
-      console.log("Passwort: " + password.value);
-      // Hier kannst du auch eine Fehler- oder Erfolgsnachricht anzeigen
-      // oder zur Hauptseite weiterleiten
-      if (username.value == "admin" && password.value == "1234") {
-        alert("Anmeldung erfolgreich!");
-        window.location.href = "map.html";
-      } else {
-        alert("Anmeldung fehlgeschlagen!");
-      }
-    });
+{% block head %}
+<title>Login</title>
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-language" content="de" />
+<link rel="stylesheet" type="text/css" href="../static/css/styles.css">
+</link>
+{% endblock %}
 
-    register.addEventListener("click", function() {
-      // Hier kannst du die Logik zum Erstellen eines neuen Benutzerkontos implementieren
-      // Zum Beispiel kannst du einen AJAX-Request an einen Server senden
-      // oder die Daten in einer Datenbank speichern
-      // oder eine E-Mail an den Benutzer schicken
-      // oder einfach eine Nachricht auf der Konsole ausgeben
-      console.log("Registrierungsversuch:");
-      console.log("Benutzername: " + username.value);
-      console.log("Passwort: " + password.value);
-      // Hier kannst du auch eine Fehler- oder Erfolgsnachricht anzeigen
-      // oder zur Hauptseite weiterleiten
-      alert("Registrierung erfolgreich!");
-      window.location.href = "map.html";
-    });
-  </script>
-</body>
-</html>
+{% block content %}
+<div class="login-container">
+  <h2>Login</h2>
+  <form action="#" method="post">
+    <input type="text" name="username" placeholder="Benutzername" required>
+    <input type="password" name="password" placeholder="Passwort" required>
+    <button type="submit">Anmelden</button>
+  </form>
+  <div class="register-link">
+    Noch kein Konto? <a href="{{ url_for('register')}}">Registrieren</a>
+  </div>
+</div>
+{% endblock %}
