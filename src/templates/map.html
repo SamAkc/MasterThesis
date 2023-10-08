@@ -14,7 +14,6 @@
 <script type="text/javascript" src="https://openstreetmap.org/openlayers/OpenStreetMap.js"></script>
 <script type="text/javascript" src="../static/js/tom.js"></script>
 <script type="text/javascript">
-    //<![CDATA[
 
     var map;
     var layer_mapnik;
@@ -50,17 +49,71 @@
             visibility: true, displayInLayerSwitcher: false
         });
 
-        map.addLayers([layer_mapnik, layer_markers]);
-        jumpTo(lon, lat, zoom);
+        var stationsLayer = new OpenLayers.Layer.Vector({
+            strategies: [new OpenLayers.Strategy.Fixed()],
+            protocol: new OpenLayers.Protocol.HTTP({
+                url: 'http://localhost:5000/static/stations.kml',
+                format: new OpenLayers.Format.KML({
+                    extractStyles: true,
+                    extractAttributes: true
+                })
+            })
+        });
 
-        // Position des Markers
+        var climatezonesLayer = new OpenLayers.Layer.Vector({
+            strategies: [new OpenLayers.Strategy.Fixed()],
+            protocol: new OpenLayers.Protocol.HTTP({
+                url: 'http://localhost:5000/static/climatezones.kml',
+                format: new OpenLayers.Format.KML({
+                    extractStyles: true,
+                    extractAttributes: true
+                })
+            })
+        });
+
+        map.addLayers([layer_mapnik, layer_markers, stationsLayer, climatezonesLayer]);
+
+        jumpTo(lon, lat, zoom);
     }
 
-    //]]>
+    document.addEventListener('DOMContentLoaded', function () {
+        var chatContainer = document.getElementById('chat-container');
+        var chatMessages = document.getElementById('chat-messages');
+        var chatInput = document.getElementById('chat-input');
+        var sendButton = document.getElementById('send-button');
+
+        sendButton.addEventListener('click', function () {
+            sendMessage();
+        });
+
+        chatInput.addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+
+        function sendMessage() {
+            var messageText = chatInput.value.trim();
+            if (messageText !== '') {
+                var messageElement = document.createElement('div');
+                messageElement.className = 'chat-message';
+                messageElement.textContent = 'Du: ' + messageText;
+                chatMessages.appendChild(messageElement);
+                chatInput.value = '';
+                // TODO: enter code to process message or to respond
+            }
+        }
+    });
+
 </script>
 {% endblock %}
 
 {% block content %}
+<div id="chat-container">
+    <div id="chat-messages"></div>
+    <input type="text" id="chat-input" placeholder="Nachricht eingeben">
+    <button id="send-button">Senden</button>
+</div>
 <div id="map">
 </div>
 <div id="OSM-footer">
@@ -69,4 +122,5 @@
         <a href="https://opendatacommons.org/licenses/odbl/">ODbL</a>
     </div>
 </div>
+
 {% endblock %}

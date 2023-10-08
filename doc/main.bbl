@@ -96,6 +96,39 @@
       \field{title}{SWEBOK: Guide to the Software Engineering Body of Knowledge, 2004 version}
       \field{year}{2004}
     \endentry
+    \entry{institute1984ieee}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=3b4f0f3fbf57a67f138dbb29074557ff}{%
+           family={Electrical},
+           familyi={E\bibinitperiod},
+           given={Institute},
+           giveni={I\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+        {{hash=4b130cfa309b2ff17cea51cb7fb7d85f}{%
+           family={Engineers},
+           familyi={E\bibinitperiod},
+           given={Electronics},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {Inst. of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{bbcfa0997876af8df433758706aa3923}
+      \strng{fullhash}{bbcfa0997876af8df433758706aa3923}
+      \strng{bibnamehash}{bbcfa0997876af8df433758706aa3923}
+      \strng{authorbibnamehash}{bbcfa0997876af8df433758706aa3923}
+      \strng{authornamehash}{bbcfa0997876af8df433758706aa3923}
+      \strng{authorfullhash}{bbcfa0997876af8df433758706aa3923}
+      \field{labelalpha}{EE84}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IEEE guide to software requirements specifications: approved September 22, 1983, IEEE Standards Board; approved July 20, 1984, American National Standards Institute}
+      \field{year}{1984}
+    \endentry
     \entry{Ganti2011}{article}{}
       \name{author}{3}{}{%
         {{hash=708f1aaced955be006b88136bec9e735}{%
@@ -626,6 +659,39 @@
       \field{journaltitle}{IEEE Computer Society}
       \field{title}{SWEBOK: Guide to the Software Engineering Body of Knowledge, 2004 version}
       \field{year}{2004}
+    \endentry
+    \entry{institute1984ieee}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=3b4f0f3fbf57a67f138dbb29074557ff}{%
+           family={Electrical},
+           familyi={E\bibinitperiod},
+           given={Institute},
+           giveni={I\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+        {{hash=4b130cfa309b2ff17cea51cb7fb7d85f}{%
+           family={Engineers},
+           familyi={E\bibinitperiod},
+           given={Electronics},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {Inst. of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{bbcfa0997876af8df433758706aa3923}
+      \strng{fullhash}{bbcfa0997876af8df433758706aa3923}
+      \strng{bibnamehash}{bbcfa0997876af8df433758706aa3923}
+      \strng{authorbibnamehash}{bbcfa0997876af8df433758706aa3923}
+      \strng{authornamehash}{bbcfa0997876af8df433758706aa3923}
+      \strng{authorfullhash}{bbcfa0997876af8df433758706aa3923}
+      \field{labelalpha}{EE84}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IEEE guide to software requirements specifications: approved September 22, 1983, IEEE Standards Board; approved July 20, 1984, American National Standards Institute}
+      \field{year}{1984}
     \endentry
     \entry{Ganti2011}{article}{}
       \name{author}{3}{}{%
