@@ -531,6 +531,75 @@
       \field{year}{2022}
       \field{dateera}{ce}
     \endentry
+    \entry{salo2007iterative}{article}{}
+      \name{author}{2}{}{%
+        {{hash=baa5563d78e838be30fc43d401f8042b}{%
+           family={Salo},
+           familyi={S\bibinitperiod},
+           given={Outi},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f000e44112e23fdafed23380b5583b19}{%
+           family={Abrahamsson},
+           familyi={A\bibinitperiod},
+           given={Pekka},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{fullhash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{bibnamehash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{authorbibnamehash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{authornamehash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{authorfullhash}{1a7a065c9482e3190d9baaa897c55f67}
+      \field{labelalpha}{SA07}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Software Process: Improvement and Practice}
+      \field{number}{1}
+      \field{title}{An iterative improvement process for agile software development}
+      \field{volume}{12}
+      \field{year}{2007}
+      \field{pages}{81\bibrangedash 100}
+      \range{pages}{20}
+    \endentry
+    \entry{Siepermann2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f3d648bb23b8a2d04f6c90c431e10665}{%
+           family={Siepermann},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{fullhash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{bibnamehash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{authorbibnamehash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{authornamehash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{authorfullhash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \field{labelalpha}{Sie18}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{month}{2}
+      \field{title}{Agile Softwareentwicklung}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/agile-softwareentwicklung-53460/version-276549
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/agile-softwareentwicklung-53460/version-276549
+      \endverb
+    \endentry
     \entry{Wang2019}{article}{}
       \name{author}{5}{}{%
         {{hash=66b60f9bafb01a88931be1140c97dab3}{%
@@ -1094,6 +1163,75 @@
       \field{title}{A survey of mobile crowdsensing and crowdsourcing strategies for smart mobile device users}
       \field{year}{2022}
       \field{dateera}{ce}
+    \endentry
+    \entry{salo2007iterative}{article}{}
+      \name{author}{2}{}{%
+        {{hash=baa5563d78e838be30fc43d401f8042b}{%
+           family={Salo},
+           familyi={S\bibinitperiod},
+           given={Outi},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f000e44112e23fdafed23380b5583b19}{%
+           family={Abrahamsson},
+           familyi={A\bibinitperiod},
+           given={Pekka},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{fullhash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{bibnamehash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{authorbibnamehash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{authornamehash}{1a7a065c9482e3190d9baaa897c55f67}
+      \strng{authorfullhash}{1a7a065c9482e3190d9baaa897c55f67}
+      \field{labelalpha}{SA07}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Software Process: Improvement and Practice}
+      \field{number}{1}
+      \field{title}{An iterative improvement process for agile software development}
+      \field{volume}{12}
+      \field{year}{2007}
+      \field{pages}{81\bibrangedash 100}
+      \range{pages}{20}
+    \endentry
+    \entry{Siepermann2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f3d648bb23b8a2d04f6c90c431e10665}{%
+           family={Siepermann},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{fullhash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{bibnamehash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{authorbibnamehash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{authornamehash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \strng{authorfullhash}{f3d648bb23b8a2d04f6c90c431e10665}
+      \field{labelalpha}{Sie18}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{month}{2}
+      \field{title}{Agile Softwareentwicklung}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/agile-softwareentwicklung-53460/version-276549
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/agile-softwareentwicklung-53460/version-276549
+      \endverb
     \endentry
     \entry{Wang2019}{article}{}
       \name{author}{5}{}{%
