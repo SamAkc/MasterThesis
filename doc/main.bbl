@@ -346,7 +346,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current medical research and opinion}
       \field{number}{8}
-      \field{title}{A review of tinnitus symptoms beyond ‘ringing in the ears’: a call to action}
+      \field{title}{A review of tinnitus symptoms beyond 'ringing in the ears': a call to action}
       \field{volume}{27}
       \field{year}{2011}
       \field{pages}{1635\bibrangedash 1643}
@@ -383,6 +383,32 @@
       \verb{url}
       \verb https://um.baden-wuerttemberg.de/de/umwelt-natur/nachhaltigkeit/nachhaltige-digitalisierung/projekte/crowdsensing-bodensee/
       \endverb
+    \endentry
+    \entry{oke2004initial}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b91b080b88ad99eae69ae9cb1bd2eb3a}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={Tim\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Meteorological Organization Geneva}%
+      }
+      \strng{namehash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{fullhash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{bibnamehash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{authorbibnamehash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{authornamehash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{authorfullhash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \field{labelalpha}{Oke04}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Initial guidance to obtain representative meteorological observations at urban sites}
+      \field{volume}{81}
+      \field{year}{2004}
     \endentry
     \entry{pryss2015mobile}{inproceedings}{}
       \name{author}{4}{}{%
@@ -599,6 +625,73 @@
       \verb{url}
       \verb https://wirtschaftslexikon.gabler.de/definition/agile-softwareentwicklung-53460/version-276549
       \endverb
+    \endentry
+    \entry{stewart2012local}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a52ee412be9f2c40dd19c7d8dd1ecc90}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Ian\bibnamedelima D},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b91b080b88ad99eae69ae9cb1bd2eb3a}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={Tim\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Meteorological Society}%
+      }
+      \strng{namehash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{fullhash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{bibnamehash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{authorbibnamehash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{authornamehash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{authorfullhash}{2852dc5ef4ea1313b8a447360fe18606}
+      \field{extraname}{1}
+      \field{labelalpha}{SO12}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of the American Meteorological Society}
+      \field{number}{12}
+      \field{title}{Local climate zones for urban temperature studies}
+      \field{volume}{93}
+      \field{year}{2012}
+      \field{pages}{1879\bibrangedash 1900}
+      \range{pages}{22}
+    \endentry
+    \entry{stewart2011local}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=ca83365afcbeb8a99cf80f6682f2b0ee}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={ID},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b137bc8a542aaa54a7b55ff8a729ff46}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={TR},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{fullhash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{bibnamehash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{authorbibnamehash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{authornamehash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{authorfullhash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \field{extraname}{2}
+      \field{labelalpha}{SO11}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Annual Meeting of the American Association of Geographers, Seattle, WA, USA}
+      \field{title}{Local climate zones: Origins, development, and application to urban heat island studies}
+      \field{year}{2011}
+      \field{pages}{12\bibrangedash 16}
+      \range{pages}{5}
     \endentry
     \entry{Wang2019}{article}{}
       \name{author}{5}{}{%
@@ -979,7 +1072,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current medical research and opinion}
       \field{number}{8}
-      \field{title}{A review of tinnitus symptoms beyond ‘ringing in the ears’: a call to action}
+      \field{title}{A review of tinnitus symptoms beyond 'ringing in the ears': a call to action}
       \field{volume}{27}
       \field{year}{2011}
       \field{pages}{1635\bibrangedash 1643}
@@ -1016,6 +1109,32 @@
       \verb{url}
       \verb https://um.baden-wuerttemberg.de/de/umwelt-natur/nachhaltigkeit/nachhaltige-digitalisierung/projekte/crowdsensing-bodensee/
       \endverb
+    \endentry
+    \entry{oke2004initial}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b91b080b88ad99eae69ae9cb1bd2eb3a}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={Tim\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Meteorological Organization Geneva}%
+      }
+      \strng{namehash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{fullhash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{bibnamehash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{authorbibnamehash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{authornamehash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \strng{authorfullhash}{b91b080b88ad99eae69ae9cb1bd2eb3a}
+      \field{labelalpha}{Oke04}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Initial guidance to obtain representative meteorological observations at urban sites}
+      \field{volume}{81}
+      \field{year}{2004}
     \endentry
     \entry{pryss2015mobile}{inproceedings}{}
       \name{author}{4}{}{%
@@ -1232,6 +1351,73 @@
       \verb{url}
       \verb https://wirtschaftslexikon.gabler.de/definition/agile-softwareentwicklung-53460/version-276549
       \endverb
+    \endentry
+    \entry{stewart2011local}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=ca83365afcbeb8a99cf80f6682f2b0ee}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={ID},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b137bc8a542aaa54a7b55ff8a729ff46}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={TR},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{fullhash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{bibnamehash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{authorbibnamehash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{authornamehash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \strng{authorfullhash}{6883b9bf5ec48f36b9d80b2872f4dddd}
+      \field{extraname}{1}
+      \field{labelalpha}{SO11}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Annual Meeting of the American Association of Geographers, Seattle, WA, USA}
+      \field{title}{Local climate zones: Origins, development, and application to urban heat island studies}
+      \field{year}{2011}
+      \field{pages}{12\bibrangedash 16}
+      \range{pages}{5}
+    \endentry
+    \entry{stewart2012local}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a52ee412be9f2c40dd19c7d8dd1ecc90}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Ian\bibnamedelima D},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b91b080b88ad99eae69ae9cb1bd2eb3a}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={Tim\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Meteorological Society}%
+      }
+      \strng{namehash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{fullhash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{bibnamehash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{authorbibnamehash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{authornamehash}{2852dc5ef4ea1313b8a447360fe18606}
+      \strng{authorfullhash}{2852dc5ef4ea1313b8a447360fe18606}
+      \field{extraname}{2}
+      \field{labelalpha}{SO12}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of the American Meteorological Society}
+      \field{number}{12}
+      \field{title}{Local climate zones for urban temperature studies}
+      \field{volume}{93}
+      \field{year}{2012}
+      \field{pages}{1879\bibrangedash 1900}
+      \range{pages}{22}
     \endentry
     \entry{Wang2019}{article}{}
       \name{author}{5}{}{%

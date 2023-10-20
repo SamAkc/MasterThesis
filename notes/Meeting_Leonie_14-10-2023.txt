@@ -1,0 +1,22 @@
+muss halt dargestellt sein, warum ich was gemacht hab (verwandte arbeiten)
+
+Hintergrund ist dafür da, ich hab das thema recherchiert, kenn mich damit aus
+aber soll auch zeigen "inwiefern kenn ich mich damit aus?"
+
+Umsetzung:
+und dann habe ich einen iterativen prototyping-prozess gehabt, kann ich was zitieren, ist halt eine software-engineering technik die sehr beliebt ist, immer 
+mit kleinen prototypen arbeiten, und so und so viele prototypen und absprachen hatte ich, nicht ein fertiges softwareprodukt entwickelt, sondern verstehen was müsste das haben und 
+"prototyping konzept" iteratives konzept 
+beschreiben, okay wir haben anforderungen aufgestellt, welche komponenten braucht es, prototypen gebaut, mit stakeholdern abgesprochen
+was mein zeitplan war, wie lange die einzelnen sachen gebraucht haben 
+
+
+entwurf raushauen
+
+user stories haben wichtige dokumentationsarbeit 
+teile danach gewichten, 
+
+Evaluation:
+wie gut hat das geklappt mit den stakeholdern zusammenzuarbeiten? Was ist meine Reflexion von dem Prozess? Welche Auswirkungen hatte das auf das Tool? 
+Passt das was wir entwickelt haben, was die Stakeholder wollen, mit der Forschung? Was stimmt überein, was nicht?
+
