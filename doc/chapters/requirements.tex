@@ -6,13 +6,13 @@ Bevor mit der eigentlichen Implementierung begonnen werden kann, ist es notwendi
 
 \section{Ausgangslage in Bamberg}
 \label{sec:ausgangslage}
-Bamberg\sidenote{\url{https://www.stadt.bamberg.de/Unsere-Stadt/Stadtinfo/}} ist eine kreisfreie Stadt in Bayern im Regierungsbezirk Oberfranken mit einer Einwohnerzahl von knapp 80.000 Einwohnern (Stand: Dezember 2022). Die Stadt selbst kann dabei in sogenannte \ac{LCZ}, also Klassifikationen, welche sich durch die logische Aufteilung einer Landschaft ergeben \cite{stewart2011local}, unterteilt werden. Zusammen mit dem Domänenwissen des Meteorologen Prof.\ Dr.\ Thomas Foken (vgl. Kapitel \ref{sec:stakeholder}) hat eine rudimentäre Unterteilung in sechs LCZ stattgefunden: Die Innenstadt, die ERBA, Gartenstadt, Bamberg-Ost, der Hain, am Laubanger und das Berggebiet (siehe Abbildung \ref{fig:lcz}). Die Entscheidung über die Grenzen und der Gebiete erfolgt dabei durch die in der Literatur gegebenen Charakteristika, welche zum Definieren von LCZ notwendig sind \cite{oke2004initial, stewart2012local}:
+Bamberg\sidenote{\url{https://www.stadt.bamberg.de/Unsere-Stadt/Stadtinfo/}} ist eine kreisfreie Stadt in Bayern im Regierungsbezirk Oberfranken mit einer Einwohnerzahl von knapp 80.000 Einwohnern (Stand: Dezember 2022). Die Stadt selbst kann dabei in sogenannte \ac{LCZ}, also Klassifikationen, welche sich durch die logische Aufteilung einer Landschaft ergeben \cite{stewart2011local}, unterteilt werden. Zusammen mit dem Domänenwissen des Meteorologen Prof.\ Dr.\ Thomas Foken (vgl. Kapitel \ref{sec:stakeholder}) hat eine rudimentäre Unterteilung in sechs \ac{LCZ} stattgefunden: Die Innenstadt, die ERBA, Gartenstadt, Bamberg-Ost, der Hain, am Laubanger und das Berggebiet (siehe Abbildung \ref{fig:lcz}). Die Entscheidung über die Grenzen und der Gebiete erfolgt dabei durch die in der Literatur gegebenen Charakteristika, welche zum Definieren von \ac{LCZ} notwendig sind \cite{oke2004initial, stewart2012local}:
 
-\keyword{Innenstadt (2)} -- Die Innenstadt kann als \enquote{Compact midrise} klassifiziert werden. Charakteristisch für diese LCZ ist der dichte Mix aus mittelhohen Gebäuden, das Vorhandensein von wenigen bis keinen Bäumen und hauptsächlich asphaltierten Landflächen. Überwiegend lassen sich Stein, Ziegel, Kacheln und Beton als Baumaterialien vorfinden.
+\keyword{Innenstadt (2)} -- Die Innenstadt kann als \enquote{Compact midrise} klassifiziert werden. Charakteristisch für diese \ac{LCZ} ist der dichte Mix aus mittelhohen Gebäuden, das Vorhandensein von wenigen bis keinen Bäumen und hauptsächlich asphaltierten Landflächen. Überwiegend lassen sich Stein, Ziegel, Kacheln und Beton als Baumaterialien vorfinden.
 
 \keyword{ERBA (6)} -- Die ERBA kann als \enquote{Open low-rise} klassifiziert werden. In einem solchen befinden sich in der Regel flache Gebäude, die in einer offeneren Struktur angeordnet sind. Die Landflächen sind asphaltiert, weisen aber auch Grünflächen in Form von kleinen Pflanzen oder verstreuten Bäumen auf. Die Baumaterialien sind ähnlich wie in der Innenstadt, jedoch kann man an der ERBA häufig Holz als Baumaterial vorfinden.
 
-\keyword{Gartenstadt (6B)} -- Die Gartenstadt ist wie die ERBA ein \enquote{Open low-rise}. Allerdings kann hier der Zusatz \textit{\enquote{B}} als \enquote{Land cover type}\sidenote{Nach \cite{stewart2012local}: Klassifikationen zu saisonalen Eigenschaften, wie z.B. schneebedeckter Boden, trockener/feuchter Boden etc.} zur Klassifikation hinzugefügt werden, welche nach \cite{stewart2012local} bedeutet, dass die Landschaft rege mit immergrünen Bäumen bestückt ist. Die Landflächen weisen zu einem Großteil Grünflächen mit kleinen Pflanzen auf. Diese Arten von LCZ werden in der Regel für Wälder oder Stadtparks verwendet.
+\keyword{Gartenstadt (6B)} -- Die Gartenstadt ist wie die ERBA ein \enquote{Open low-rise}. Allerdings kann hier der Zusatz \textit{\enquote{B}} als \enquote{Land cover type}\sidenote{Nach \cite{stewart2012local}: Klassifikationen zu saisonalen Eigenschaften, wie z.B. schneebedeckter Boden, trockener/feuchter Boden etc.} zur Klassifikation hinzugefügt werden, welche nach \cite{stewart2012local} bedeutet, dass die Landschaft rege mit immergrünen Bäumen bestückt ist. Die Landflächen weisen zu einem Großteil Grünflächen mit kleinen Pflanzen auf. Diese Arten von \ac{LCZ} werden in der Regel für Wälder oder Stadtparks verwendet.
 
 \keyword{Bamberg-Ost (3)} -- Der Osten Bambergs wird als \enquote{Compact low-rise} klassifiziert. Dieser weist die identischen Charakteristika wie die Bamberger Innenstadt auf, mit dem einzigen Unterschied, dass es sich bei den Gebäuden um niedrige Gebäude handelt.
 
@@ -26,10 +26,11 @@ Bamberg\sidenote{\url{https://www.stadt.bamberg.de/Unsere-Stadt/Stadtinfo/}} ist
     \centering
     \includegraphics[width=1\textwidth]{figures/lcz.jpg}
     \decoRule
-    \caption[LCZ in Bamberg]{Die sechs LCZ in Bamberg (eigene Darstellung, basierend auf \cite{stewart2012local,oke2004initial})} 
+    \caption[LCZ in Bamberg]{Die sechs \ac{LCZ} in Bamberg (eigene Darstellung, basierend auf \cite{stewart2012local,oke2004initial})} 
     \label{fig:lcz}
 \end{figure}
 
+Durch die Unterteilung der Stadt Bamberg in \ac{LCZ} ist es möglich, die Auslesungen der Wetterstationen und die Unterschiede der Messwerte in den einzelnen Gebieten nachvollziehen und damit besser analysieren zu können. Der \ac{BVM} (vgl. Kapitel \ref{sec:stakeholder}) misst derzeit mithilfe von insgesamt 13 smarten Netatmo-Wetterstationen\sidenote{\url{https://shop.netatmo.com/de-de/weather/smart-weather-station/weatherstation}} (Stand: 21. Oktober 2023) verteilt in der gesamten Stadt die Temperatur und die Luftfeuchtigkeit an den entsprechenden Standorten\sidenote{Standorte der smarten Wetterstationen (LCZ): Steinertstraße (Innenstadt), Lange Straße (Innenstadt), Grünhundsbrunnen, Am Weidenufer, Holzmarkt (Innenstadt), Promenadestraße (Innenstadt), Obere Sandstraße (Innenstadt), Fischerei (Innenstadt), Wetzelstraße (ERBA), Ottostraße (Hain), Frauenstraße (Hain) (Innenstadt), Hainstraße (Hain), Schützenstraße (Hain) und in Bischberg (außerhalb der \ac{LCZ}, da Landkreis Bamberg, aber ERBA zuzuordnen)}. Aus den Messungen der Wetterstationen ergibt sich, dass sich die Bamberger Innenstadt im Vergleich zu anderen \ac{LCZ} kaum abkühlt und die Temperaturen sich häufig von der offiziellen Station des \ac{DWD} unterscheiden (vgl. Webauftritt\sidenote{\url{https://bvm-bamberg.de/de/projektseiten/klima/}} des Klimamessnetzes Bamberg). 
 % hier jetzt die verschiedenen Stadtgebiete mit der Literatur beschreiben, dann sowas wie CO2-Emissionen der Stadt aufbringen, dann sowas wie "das meiste geht von der Innenstadt aus" kP
 
 \subsection{Identifikation der Stakeholder}
@@ -43,7 +44,7 @@ Bamberg\sidenote{\url{https://www.stadt.bamberg.de/Unsere-Stadt/Stadtinfo/}} ist
 
 \subsection{Das Bamberger Klimamessnetz als Grundlage der Sensordaten}
 
-\subsection{Die Netatmo API --- eine Schnittstelle zwischen Sensordaten und Stakeholder}
+\section{Die Netatmo API --- eine Schnittstelle zwischen Sensordaten und Stakeholder}
 
 \section{Definition der Anforderungen}
 

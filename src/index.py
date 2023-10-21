@@ -3,9 +3,6 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 
-# CORS-Konfiguration mit spezifischen Optionen
-cors = CORS(app, resources={r"/*": {"origins": "http://localhost:5000", "methods": ["GET", "POST"], "headers": "Content-Type"}})
-
 @app.route("/")
 def home():
     return render_template('map.html')
