@@ -1,4 +1,4 @@
-USE db;
+/*  USE db; */
 
 CREATE TABLE stations (
   id SERIAL PRIMARY KEY,

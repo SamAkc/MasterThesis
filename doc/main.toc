@@ -1,0 +1,40 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {ngerman}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Hintergrund}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Crowdsensing vs. Crowdsourcing}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Verwandte Arbeiten}{7}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Konzept}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Grundgedanke der Arbeit}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methodologie zum Aufstellen der Anforderungen}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Erfassung der notwendigen Komponenten der Software}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Umsetzung}{13}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Vorbereitung}{14}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Sammeln von Erfahrungen}{14}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Planung von Verbesserungsschritten}{15}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Piloting, Follow-up und Validierung der Verbesserungsschritte}{15}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Aufbewahrung der Verbesserungsschritte}{15}{subsection.3.4.5}%
+\contentsline {chapter}{\numberline {4}Anforderungsanalyse}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ausgangslage in Bamberg}{17}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Identifikation der Stakeholder}{19}{subsection.4.1.1}%
+\contentsline {paragraph}{Der B\"urgerverein Bamberg Mitte e.V.}{19}{paragraph*.12}%
+\contentsline {paragraph}{Die Dom\"anenexperten}{19}{paragraph*.13}%
+\contentsline {paragraph}{Der Lehrstuhl f\"ur Informatik, insbesondere Mobile Softwaresysteme/Mobilit\"at der Universit\"at Bamberg}{19}{paragraph*.14}%
+\contentsline {subsection}{\numberline {4.1.2}Das Bamberger Klimamessnetz als Grundlage der Sensordaten}{19}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Die Netatmo API --- eine Schnittstelle zwischen Sensordaten und Stakeholder}{19}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Definition der Anforderungen}{19}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Use Cases}{19}{section.4.4}%
+\contentsline {chapter}{\numberline {5}User Stories}{21}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Implementierung und Design}{23}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Architektur f\"ur das Front-End}{23}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Architektur f\"ur das Back-End}{23}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Diskussion und Evaluation}{25}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Analyse der Anforderungen}{25}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Evaluation auf Grundlage der Literatur}{25}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Evaluation auf Grundlage der Stakeholder}{25}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Limitationen der Arbeit}{25}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Fazit und Ausblick}{27}{chapter.8}%
+\def \chaptername {Appendix}
+\contentsline {chapter}{Literaturverzeichnis}{29}{appendix*.15}%
+\contentsline {chapter}{Eidesstattliche Erkl\"arung}{31}{appendix*.16}%
