@@ -1,9 +1,0 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.10.23)  23 OCT 2023 15:56
- restricted system commands enabled.
- file:line:error style messages enabled.
-**c:/Users/samet/git/MasterThesis/doc/main.tex
-(
-c:/Users/samet/git/MasterThesis/doc/main.tex:0: error:  (file io): fflush() fail
-ed (Invalid argument)
-c:/Users/samet/git/MasterThesis/doc/main.tex:0:  ==> Fatal error occurred, no ou
-tput PDF file produced!
