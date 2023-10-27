@@ -1,5 +1,3 @@
-/*  USE db; */
-
 CREATE TABLE stations (
   id SERIAL PRIMARY KEY,
   p_id INT,

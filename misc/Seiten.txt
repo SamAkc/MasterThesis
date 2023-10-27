@@ -1,9 +1,9 @@
 1 1/2 - 2	Einleitung
-5		Hintergrund
-4-5		Konzept
+X4		Hintergrund
+X4-5		Konzept
 10-15		Anforderungsanalyse
 2		User Stories
-2-3		Implementierung und Design
+X2-3		Implementierung und Design
 10-15		Diskussion und Evaluation
 2		Fazit und Ausblick
 ----------------------------------------------
