@@ -2,7 +2,7 @@
 \label{sec:requirements}
 % Wie ist die Ausgangslage (in Bamberg)? Wie werden/wurden die Anforderungen aufgestellt, 
 % wer sind die Stakeholder und warum? Dann Anforderungen definieren und priorisieren
-Bevor mit der eigentlichen Implementierung begonnen werden kann, ist es notwendig, die Anforderungsanalyse. Der erste Schritt hierzu besteht daraus, die Ausgangslage in Bamberg zu untersuchen, um darauf aufbauend die Stakeholder zu identifizieren, da diese den Ursprung der Anforderungen darstellen. Nachdem das Aufstellen der Anforderungen erfolgreich gewesen ist, können diese im Anschluss analysiert, also priorisiert, auf ihre Validität und im Anschluss auf ihre Realisierbarkeit überprüft werden. Basierend auf den Anforderungen werden dann Use Cases formuliert, die die Anforderungen in einer konkreten Situation beschreiben und damit die Grundlage für die Implementierung bilden.
+Bevor mit der eigentlichen Implementierung begonnen werden kann, ist es notwendig, die Anforderungsanalyse. Der erste Schritt hierzu besteht daraus, die Ausgangslage in Bamberg zu untersuchen, um darauf aufbauend die Stakeholder zu identifizieren, da diese den Ursprung der Anforderungen darstellen. Nachdem das Aufstellen der Anforderungen erfolgreich gewesen ist, können diese priorisiert und auf ihre Validität und ihre Realisierbarkeit analysiert werden. Basierend auf den Anforderungen werden dann User Stories abgeleitet, die die Anforderungen in einer konkreten Situation aus Sicht der Nutzenden beschreiben. Im Anschluss werden Use Cases präsentiert, um die von außen sichtbare Interaktion mit dem System zu beschreiben.
 
 \section{Ausgangslage in Bamberg}
 \label{sec:ausgangslage}
@@ -26,7 +26,7 @@ Bamberg\sidenote{\url{https://www.stadt.bamberg.de/Unsere-Stadt/Stadtinfo/}} ist
     \centering
     \includegraphics[width=1\textwidth]{figures/lcz.jpg}
     \decoRule
-    \caption[LCZ in Bamberg]{Die sechs \ac{LCZ} in Bamberg (eigene Darstellung, basierend auf \cite{stewart2012local,oke2004initial})} 
+    \caption[LCZ in Bamberg]{Die sechs \ac{LCZ} in Bamberg (eigene Darstellung, basierend auf \cite{stewart2012local,oke2004initial})}
     \label{fig:lcz}
 \end{figure}
 
@@ -46,7 +46,7 @@ Als Domänenexpert*innen werden in dieser Arbeit Personen definiert, die durch i
 Tropennächte bieten sich insofern als guter Messwert an, da diese Kennzeichen für Hitzewellen in relativ kühleren Regionen der Welt (\textit{hier:} Deutschland) und für ihre geringe Frequenz eigentlich eine Ausnahmeerscheinung repräsentieren sollten TODO HIER ZITAT. [...]
 
 \paragraph{Der \ac{MOBI-Lehrstuhl}}
-Der \ac{MOBI-Lehrstuhl}\sidenote{\url{https://www.uni-bamberg.de/mobi/}} ist ein Lehrstuhl, welcher 2014 in der Fakultät Wirtschaftsinformatik und Angewandte Informatik an der Otto-Friedrich-Universität Bamberg angelegt wurde. Die Leitung übernimmt Prof.\ Dr.\ Daniela Nicklas, welche gleichzeitig die Betreuerin dieser Arbeit darstellt. Der Lehrstuhl beschäftigt sich insbesondere mit den \enquote{Fragen des Datenmanagements für mobile Systeme, Datenstrommanagement/komplexe Ereignisverarbeitung und der Unterstützung sensorbasierter Anwendungen, unter anderem im Bereich Smart Cities}. Die Hauptansprechpartner*innen im Rahmen dieser Arbeit sind Prof.\ Dr.\ Daniela Nicklas, Leonie Ackermann und Aboubakr El Hacen Benabbas gewesen. \\ Der MOBI-Lehrstuhl hat ebenfalls an den regelmäßigen Treffen des \ac{BVM} zusammen mit Prof.\ Dr.\ Thomas Foken teilgenommen, sodass hier zusätzlich die Möglichkeit bestanden hat, Erfahrungen und Wissen aus dem Bereich der Informatik, der Datenverarbeitung und notwendige Schritte zum Entwickeln eines interaktiven Werkzeuges zu erhalten. Im gemeinsamen Austausch wurden Anforderungen ausgearbeitet, die sowohl für das \ac{BVM} und die Domänenexpert*innen in Hinblick auf die Auslesungen der Wetterstationen und die damit verbundenen Analysen der Sensordaten, als auch für den \ac{MOBI-Lehrstuhl} in Hinblick auf die technische Umsetzung relevant, aber auch realistisch sind. 
+Der \ac{MOBI-Lehrstuhl}\sidenote{\url{https://www.uni-bamberg.de/mobi/}} ist ein Lehrstuhl, welcher 2014 in der Fakultät Wirtschaftsinformatik und Angewandte Informatik an der Otto-Friedrich-Universität Bamberg angelegt wurde. Die Leitung übernimmt Prof.\ Dr.\ Daniela Nicklas, welche gleichzeitig die Betreuerin dieser Arbeit darstellt. Der Lehrstuhl beschäftigt sich insbesondere mit den \enquote{Fragen des Datenmanagements für mobile Systeme, Datenstrommanagement/komplexe Ereignisverarbeitung und der Unterstützung sensorbasierter Anwendungen, unter anderem im Bereich Smart Cities}. Die Hauptansprechpartner*innen im Rahmen dieser Arbeit sind Prof.\ Dr.\ Daniela Nicklas, Leonie Ackermann und Aboubakr El Hacen Benabbas gewesen. \\ Der MOBI-Lehrstuhl hat ebenfalls an den regelmäßigen Treffen des \ac{BVM} zusammen mit Prof.\ Dr.\ Thomas Foken teilgenommen, sodass hier zusätzlich die Möglichkeit bestanden hat, Erfahrungen und Wissen aus dem Bereich der Informatik, der Datenverarbeitung und notwendige Schritte zum Entwickeln eines interaktiven Werkzeuges zu erhalten. Im gemeinsamen Austausch wurden Anforderungen ausgearbeitet, die sowohl für das \ac{BVM} und die Domänenexpert*innen in Hinblick auf die Auslesungen der Wetterstationen und die damit verbundenen Analysen der Sensordaten, als auch für den \ac{MOBI-Lehrstuhl} in Hinblick auf die technische Umsetzung relevant, aber auch realistisch sind.
 
 \paragraph{Weitere Stakeholder}
 Da eine Stadt selbst nicht als Stakeholder identifiziert werden kann, weil eine solche keine eigene Entscheidungs- bzw. Handlungseinheit darstellt, sollte Bamberg selbst trotzdem in diesem Abschnitt erwähnt werden. Dies ist darauf zurückzuführen, dass im Idealfall die eingesetzte Software Regierungsbehörden, Verwaltungen oder ähnliche Organisationen der Stadt erreichen kann und im Idealfall die Auswirkungen dieser Sache Bürger*innen, Unternehmen oder andere Interessensgruppen innerhalb der Stadt betreffen. Allerdings hat zum Zeitpunkt der Anforderungsanalyse weder mit der Stadt Bamberg, noch mit den Bürger*innen ein Austausch stattgefunden, sodass diese als indirekter Stakeholder erwähnt, aber weiterführend in dieser Arbeit nicht betrachtet werden.
@@ -54,8 +54,90 @@ Da eine Stadt selbst nicht als Stakeholder identifiziert werden kann, weil eine 
 Die in diesem Kapitel erläuterten Stakeholder wurden zum Zeitpunkt der Anforderungsanalyse identifiziert. Eine Limitierung auf diese Stakeholder ist aber nicht gegeben, sodass im Laufe der Arbeit oder in der Zukunft weitere Stakeholder identifiziert und in die Anforderungsanalyse aufgenommen werden können.
 % \subsection{Das Bamberger Klimamessnetz als Grundlage der Sensordaten}
 
-\section{Die Netatmo API --- eine Schnittstelle zwischen Sensordaten und Stakeholder}
+\section{Anforderungen}
+In diesem Abschnitt der Arbeit werden die Anforderungen an das interaktive Werkzeug definiert. Diese werden in den folgenden Abschnitten erläutert und in einer Tabelle (vgl. TODO HIER TABELLE) zusammengefasst.
 
-\section{Definition der Anforderungen}
+\subsection{Erfassung}
+Die folgenden Anforderungen sind bei den Treffen mit den Stakeholdern erfasst worden. Eine Unterscheidung zwischen funktionalen\sidenote{Funktionale Anforderungen bestimmen spezifische Funktionen, Operationen oder Aufgaben, die eine Applikation (oder ihre Komponenten) ausführen muss, um die Bedürfnisse der Stakeholder zu erfüllen. Wenn das System die funktionalen Anforderungen nicht erfüllt, dann ist eine grundlegende Funktionalität des Systems nicht gegeben \cite{Puzhevich2021}} und nicht-funktionalen\sidenote{Nicht-funktionale Anforderungen beschreiben Qualitätsmerkmale und Leistungsaspekte einer Applikation (oder ihrer Komponenten). Dabei handelt es sich nicht um spezifische Funktionen, sondern um die Art und Weise, wie diese Funktionen erbracht werden sollen \cite{Puzhevich2021}} Anforderungen wird hierbei getroffen, um diese besser zu strukturieren und priorisieren zu können. Eine Übersicht aller erfassten Anforderungen ist in der Tabelle \ref{sec:requirements_table} zu finden. Im weiteren Verlauf dieses Unterkapitels werden für eine citizen-science Anwendung typische\sidenote{Unterschieden wird dieser Aspekt dadurch, was eine typische Anwendung mit einem Crowdsensing-Ansatz von einer Anwendung ohne diesen unterscheidet (z.B. Login/Registrierung vs. Messen von Sensordaten in Echtzeit)} Anforderungen in der folgenden Form näher erläutert:
 
-\section{Use Cases}
+\textbf{Name der Anforderung (FR/NFR)}: Beschreibung und Begründung der Anforderung (\textit{Passform-Kriterium}; Priorität, wobei 1 die geringste und 5 die höchste Priorität darstellt)
+
+\begin{enumerate}
+    \item \textbf{Einsehen der Sensordaten in Echtzeit (FR)}: Die Nutzer*innen sollen die Möglichkeit haben, die Sensordaten in Echtzeit einsehen zu können. Dadurch soll es möglich sein, die Temperatur und Luftfeuchtigkeit an den entsprechenden Standorten zu betrachten und zu analysieren (\textit{Eine interaktive Karte mit den verschiedenen Stationen ist einsehbar und jede Station wird mit dem aktuellen Messwert der Temperatur und Luftfeuchtigkeit angezeigt}; 5)
+    \item \textbf{Chatfunktionalität einer Station (NFR)}: Nach Wahl einer Station soll es möglich sein, eine Information an der gewählten Station zum gewählten Zeitpunkt zu hinterlassen. Der Grund dafür ist, dass Nutzende erkannte Anomalien eines ausgewählten Sensors erklären können (\textit{Textbox zur Eingabe des Chats erscheint nach Wahl einer Station und Zeitpunkt, Eingabe wird dauerhaft gespeichert}; 4)
+    \item \textbf{Qualitätskontrolle der Sensordaten (NFR)}: Die Sensordaten sollen vor der Visualisierung mithilfe eines Algorithmus auf ihre Qualität überprüft und gefiltert werden. Dies soll durch das bestmögliche Entfernen von Ausreißern und das Ersetzen von fehlenden Werten erfolgen. Begründet ist dieser Aspekt dadurch, dass Fehler und Anomalien in den Sensordaten zu einer Verfälschung der Ergebnisse führen können (\textit{Qualitätskontrolle ist vor der Visualisierung der Sensordaten implementiert}; 4)
+    \item \textbf{Speichern von Einstellungen (NFR)}: Die Einstellungen, die von den Nutzenden getätigt werden, sollen gespeichert werden, sodass diese beim nächsten Besuch der Anwendung wiederhergestellt werden können. Dadurch soll eine personalisierte Nutzung der Anwendung ermöglicht werden (\textit{Einstellungen werden in der Datenbank gespeichert und beim nächsten Besuch der Anwendung wiederhergestellt}; 4)
+    \item \textbf{Vergleiche zwischen Stationen (NFR)}: Für Nutzende soll es möglich sein, mehrere Stationen auszuwählen und die Sensordaten der ausgewählten Stationen miteinander zu vergleichen, sodass Aussagen über das Klima, vor allem im Vergleich zwischen den \ac{LCZ}, getroffen werden können (\textit{Auswahl von mehreren Stationen ist zu gewünschten Zeitpunkten bzw. -fenstern ist möglich}; 4)
+    \item \textbf{Heatmap (FR)}: Durch das Klicken eines Buttons soll es möglich sein, eine Heatmap der Temperatur und Luftfeuchtigkeit zu der eingeblendeten Karte der Stadt Bamberg zu aktivieren. Dadurch sollen Unterschiede zwischen den verschiedenen \ac{LCZ} sichtbar gemacht werden, um darauf basierend Rückschlüsse ziehen zu können (\textit{Heatmap wird durch Klicken eines Buttons aktiviert und die Temperatur und Luftfeuchtigkeit wird durch Farben dargestellt}; 3)
+    \item \textbf{Einstellen des Zeitfensters für Stationen (NFR)}: Mithilfe verschiedener Auswahlmöglichkeiten soll die Anzeige der Auslesungen für die Stationen so manipuliert werden können, dass Auslesungen für unterschiedliche Zeiträume und -punkte angezeigt werden können. Dadurch sollen die Auslesungen im Verlauf der Zeit betrachtet werden können (\textit{Auswahlmöglichkeiten für die Anzeige der Auslesungen sind vorhanden, gewähltes Zeitfenster manipuliert entsprechend die Anzeige der Auslesungen}; 3)
+    \item \textbf{Ein- und Ausblenden von Stationen (NFR)}: Es soll die Möglichkeit gegeben werden, einzelne (oder alle) Stationen ein- und auszublenden. Dadurch sollen nur für die Nutzenden relevante Stationen angezeigt werden, sodass eine Übersichtlichkeit auf der Karte ermöglicht wird (\textit{Ein- und Ausblenden von Stationen ist durch Button oder Klick auf entsprechende Stationen möglich}; 3)
+    \item \textbf{Vordefinierte Standardsichten (NFR)}: Es sollen vordefinierte Standardsichten existieren, die Nutzende anklicken können, um entsprechende Ansichten auf der Karte zu erhalten. Dadurch können allgemein relevante Einstellungen, wie z.B. Sommertage, Tropennächte etc. schnell abgerufen werden (\textit{Vordefinierte Standardsichten sind vorhanden und können durch Klick auf entsprechende Buttons aktiviert werden}; 3)
+    \item \textbf{Einsehen der eigenen Chats (NFR)}: Es soll die Möglichkeit geben, die eigenen Chats in denen die Nutzenden involviert sind, einzusehen. Dadurch soll eine Übersichtlichkeit über die eigenen Chats ermöglicht werden (\textit{Eigene Chats im Bereich \enquote{Mein Bereich} einsehbar}; 2)
+    \item \textbf{Hinzufügen von Favoriten (NFR)}: Es soll die Möglichkeit geben, Stationen als Favoriten zu markieren, sodass diese in einem eigenen Bereich gespeichert werden können. Dadurch soll eine Übersichtlichkeit über die eigenen Favoriten ermöglicht werden (\textit{Favoriten können durch Klick auf entsprechende Stationen hinzugefügt werden und sind im Bereich \enquote{Mein Bereich} einsehbar}; 2)
+    \item \textbf{Anzeigen von relevanten Landmarks auf der Karte (NFR)}: Es soll die Möglichkeit geben, (temperatur-)relevante Landmarks auf der Karte anzuzeigen. Diese sollen die ausgelesenen Sensordaten insofern unterstützen, sodass Zusammenhänge zwischen den Standorten der Stationen und den lokalen Gegebenheiten, wie z.B. Wasserbrunnen, Wälder etc. erschlossen werden können (\textit{(Temperatur-)relevante Landmarks sind auf der Karte dauerhaft einsehbar}; 2)
+    \item \textbf{Einheitliche Datenverwaltung (NFR)}: Die Daten sollen in einer einheitlichen Datenbank verwaltet werden, da diese zum aktuellen Stand an unterschiedlichen Orten vorliegen und eine Übersicht erschweren (\textit{Daten liegen auf einer Datenbank vor und ein Zugriff auf diese ist möglich}; 1)
+\end{enumerate}
+
+Eine Limitierung der Anforderungen auf diese genannten ist nicht gegeben. Es ist möglich, dass im Laufe der Arbeit weitere Anforderungen hinzukommen oder bestehende Anforderungen angepasst werden.
+
+\subsection{Priorisierung}
+Die Priorisierung der Anforderungen erfolgt anhand der \textit{MoSCoW}-Methode\sidenote{MoSCoW ist ein Akronym für \textit{Must have, Should have, Could have, Won't have} und wird verwendet, um die Priorität von Anforderungen zu bestimmen \cite{clegg1994case}}. Eine Priorisierung erfolgt dabei durch die Abstimmung mit den Stakeholdern, wobei die Priorität anhand der folgenden Kriterien bestimmt wird:
+
+\begin{itemize}
+    \item \textbf{Must have (5)}: Anforderungen, die als \enquote{Must have} klassifiziert werden, sind essentiell für das Projekt und müssen umgesetzt werden, da diese für die Stakeholder von hoher Bedeutung sind.
+    \item \textbf{Should have (4)}: Anforderungen, die als \enquote{Should have} klassifiziert werden, sind wichtig für das Projekt und sollten umgesetzt werden, da diese für die Stakeholder von hoher Bedeutung sind.
+    \item \textbf{Could have (3-2)}: Anforderungen, die als \enquote{Could have} klassifiziert werden, sind wünschenswert für das Projekt und können umgesetzt werden, da diese für die Stakeholder von mittlerer Bedeutung sind.
+    \item \textbf{Won't have (1)}: Anforderungen, die als \enquote{Won't have} klassifiziert werden, sind nicht relevant für das Projekt und werden nicht umgesetzt, da diese für die Stakeholder von geringer Bedeutung sind.
+\end{itemize}
+
+Unter den Kategorien \enquote{Must have} und \enquote{Should have} finden sich unter anderem auch Anforderungen, die für ein citizen-science Projekt essenziell sind, da dieser Aspekt den Fokus dieser Arbeit repräsentiert. Die Kategorien \enquote{Could have} und \enquote{Won't have} beinhalten Anforderungen, die bedeutend und wünschenswert für das Projekt sind, aber nicht zwingend umgesetzt werden müssen. 
+
+\subsection{Analyse}
+Aufgrund der Tatsache, dass unter den Stakeholdern auch Domänenexpert*innen, für sowohl die technische Umsetzung als auch für die Domäne der (Mikro-)Meteorologie lokalisiert werden können, befinden sich alle aufgestellten Anforderungen in einem realistischen Rahmen, wenn lediglich die allgemeine Realisierbarkeit betrachtet wird. Inwiefern die Anforderungen in der vorgegebenen Zeit umgesetzt werden können, wird bereits in Kapitel \ref{sec:umsetzung} erläutert. \\ Um den Crowdsensing-Ansatz dieser Arbeit zu erfüllen, und Rückschlüsse auf einen Mehrwert durch die Nutzung dieses Ansatzes zu ziehen, müssen entsprechende Anforderungen existieren und höher priorisiert sein. Dies wird erreicht durch die Anforderungen 
+
+\begin{itemize}
+    \item Chatfunktionalität einer Station
+\end{itemize}
+
+mit dessen Implementierung Nutzende aktiv Anomalien erkennen, markieren und im weiteren Verlauf eine Erklärung für den Ursprung dieser zu finden. Bevor es zu diesem Schritt kommen kann, muss die Umgebung für diesen Prozess gebaut werden. Dafür benötigt man die Anforderungen 
+
+\begin{itemize}
+    \item Einsehen der Sensordaten in Echtzeit
+    \item Vergleiche zwischen Stationen
+    \item Einstellen des Zeitfensters für Stationen
+\end{itemize}
+
+sodass eine Grundlage für das Verfassen einer Annotation gegeben ist. Um die Qualität der vorliegenden Daten und der Nutzenden-Erfahrung zu steigern, werden die Anforderungen 
+
+\begin{itemize}
+    \item Qualitätskontrolle der Sensordaten
+    \item Speichern von Einstellungen
+    \item Heatmap
+    \item Ein- und Ausblenden von Stationen
+    \item Vordefinierte Standardsichten
+    \item Hinzufügen von Favoriten
+    \item Anzeigen von relevanten Landmarks auf der Karte
+    \item Einheitliche Datenverwaltung
+\end{itemize}
+
+aufgestellt. Aus dieser Aufzählung wird deutlich, dass das Ziel des Projektes, und damit des Crowdsensing-Ansatzes, klar durch das Vorhandensein einer Anforderung (Chatfunktionalität einer Station) definiert ist. Alle anderen aufgestellten Anforderungen stellen dabei nur Notwendigkeiten dar, dieses Ziel zu erreichen oder die Qualität des Endproduktes zu steigern. \\ Aufgrund dessen befinden sich die aufgestellten Anforderungen ebenfalls in einem validen Rahmen. Dies ist zusätzlich darauf zurückzuführen, dass das Projekt iterativen Prozessen unterliegt, sodass die Anforderungen nach jeder Iteration in Form der regelmäßigen Treffen mit den Stakeholdern angepasst werden können. Paradoxe, nicht-realisierbare oder den Rahmen sprengende Anforderungen werden mit den Stakeholdern evaluiert, sodass entsprechende Lösungen gebildet werden oder diese angepasst werden können, um Validität zu gewährleisten.
+
+Inwieweit die Anforderungen dieses Projekts erfüllt sind, wird in Kapitel \ref{sec:requirements_evaluation} evaluiert. 
+
+\section{User Stories}
+Im folgenden werden TODO: HIER ANZAHL User Stories beschrieben, um die Anforderungen an einem konkreten Beispiel zu repräsentieren. 
+
+\subsubsection{User Story \#1}
+
+\subsubsection{User Story \#2}
+
+\section{Use-Case-Diagramm}
+Um auf eine simple Art und Weise aufzuzeigen, was die fertige Softwarelösung können muss, kann ein Use-Case-Diagramm (vgl. Abbildung \ref{fig:usecase_diagram}) eingesetzt werden. In diesem werden die Akteure (\textit{hier:} User und Administrator) und die entsprechenden Anwendungsfälle in Ellipsen dargestellt. Die Beziehungen der einzelnen Anwendungsfälle untereinander, aber auch mit den Akteuren wird durch gerichtete Graphen verdeutlicht. Das Rechteck repräsentiert das System und dessen Grenzen, in welchem sich die einzelnen Anwendungsfälle befinden. 
+
+\begin{figure*}[t]
+    \centering
+    \includegraphics[width=1.5\textwidth]{figures/usecases.png}
+    \decoRule
+    \caption[Use-Case-Diagramm]{Use-Case-Diagramm}
+    \label{fig:usecase_diagram}
+\end{figure*}
