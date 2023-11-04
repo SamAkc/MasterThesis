@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{AmblerUserStory}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fc1f56563a26d9659940dfe2082b6700}{%
+           family={Ambler},
+           familyi={A\bibinitperiod},
+           given={Scott\bibnamedelima W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{fullhash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{bibnamehash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{authorbibnamehash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{authornamehash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{authorfullhash}{fc1f56563a26d9659940dfe2082b6700}
+      \field{labelalpha}{Amb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{User Stories - An Agile Introduction}
+      \field{titleaddon}{The Agile Modeling (AM) Method}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://agilemodeling.com/artifacts/userStory.htm#InitialFormal
+      \endverb
+      \verb{url}
+      \verb http://agilemodeling.com/artifacts/userStory.htm#InitialFormal
+      \endverb
+    \endentry
     \entry{bastin2019global}{article}{}
       \name{author}{8}{}{%
         {{hash=70f52c4ae26a22dcdae4946a4b864cb5}{%
@@ -945,6 +977,38 @@
     \endentry
   \enddatalist
   \datalist[entry]{anyt/global//global/global}
+    \entry{AmblerUserStory}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fc1f56563a26d9659940dfe2082b6700}{%
+           family={Ambler},
+           familyi={A\bibinitperiod},
+           given={Scott\bibnamedelima W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{fullhash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{bibnamehash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{authorbibnamehash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{authornamehash}{fc1f56563a26d9659940dfe2082b6700}
+      \strng{authorfullhash}{fc1f56563a26d9659940dfe2082b6700}
+      \field{labelalpha}{Amb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{User Stories - An Agile Introduction}
+      \field{titleaddon}{The Agile Modeling (AM) Method}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://agilemodeling.com/artifacts/userStory.htm#InitialFormal
+      \endverb
+      \verb{url}
+      \verb http://agilemodeling.com/artifacts/userStory.htm#InitialFormal
+      \endverb
+    \endentry
     \entry{bastin2019global}{article}{}
       \name{author}{8}{}{%
         {{hash=70f52c4ae26a22dcdae4946a4b864cb5}{%

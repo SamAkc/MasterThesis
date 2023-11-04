@@ -1,4 +1,5 @@
 */.DS_Store
+*/.vscode
 /src/venv
 /src/.env
 /src/env-variables.ps1
