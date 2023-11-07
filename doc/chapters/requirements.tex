@@ -58,7 +58,7 @@ Die in diesem Kapitel erläuterten Stakeholder wurden zum Zeitpunkt der Anforder
 In diesem Abschnitt der Arbeit werden die Anforderungen an das interaktive Werkzeug definiert. Diese werden in den folgenden Abschnitten erläutert und in einer Tabelle (vgl. TODO HIER TABELLE) zusammengefasst.
 
 \subsection{Erfassung}
-Die folgenden Anforderungen sind bei den Treffen mit den Stakeholdern erfasst worden. Eine Unterscheidung zwischen funktionalen\sidenote{Funktionale Anforderungen bestimmen spezifische Funktionen, Operationen oder Aufgaben, die eine Applikation (oder ihre Komponenten) ausführen muss, um die Bedürfnisse der Stakeholder zu erfüllen. Wenn das System die funktionalen Anforderungen nicht erfüllt, dann ist eine grundlegende Funktionalität des Systems nicht gegeben \cite{Puzhevich2021}} und nicht-funktionalen\sidenote{Nicht-funktionale Anforderungen beschreiben Qualitätsmerkmale und Leistungsaspekte einer Applikation (oder ihrer Komponenten). Dabei handelt es sich nicht um spezifische Funktionen, sondern um die Art und Weise, wie diese Funktionen erbracht werden sollen \cite{Puzhevich2021}} Anforderungen wird hierbei getroffen, um diese besser zu strukturieren und priorisieren zu können. Eine Übersicht aller erfassten Anforderungen ist in der Tabelle \ref{sec:requirements_table} zu finden. Im weiteren Verlauf dieses Unterkapitels werden für eine citizen-science Anwendung typische\sidenote{Unterschieden wird dieser Aspekt dadurch, was eine typische Anwendung mit einem Crowdsensing-Ansatz von einer Anwendung ohne diesen unterscheidet (z.B. Login/Registrierung vs. Messen von Sensordaten in Echtzeit)} Anforderungen in der folgenden Form näher erläutert:
+Die folgenden Anforderungen sind bei den Treffen mit den Stakeholdern erfasst worden. Eine Unterscheidung zwischen funktionalen\sidenote{Funktionale Anforderungen (FR) bestimmen spezifische Funktionen, Operationen oder Aufgaben, die eine Applikation (oder ihre Komponenten) ausführen muss, um die Bedürfnisse der Stakeholder zu erfüllen. Wenn das System die funktionalen Anforderungen nicht erfüllt, dann ist eine grundlegende Funktionalität des Systems nicht gegeben \cite{Puzhevich2021}} und nicht-funktionalen\sidenote{Nicht-funktionale Anforderungen (NFR) beschreiben Qualitätsmerkmale und Leistungsaspekte einer Applikation (oder ihrer Komponenten). Dabei handelt es sich nicht um spezifische Funktionen, sondern um die Art und Weise, wie diese Funktionen erbracht werden sollen \cite{Puzhevich2021}} Anforderungen wird hierbei getroffen, um diese besser zu strukturieren und priorisieren zu können. Eine Übersicht aller erfassten Anforderungen ist in der Tabelle \ref{sec:requirements_table} zu finden. Im weiteren Verlauf dieses Unterkapitels werden für eine citizen-science Anwendung typische\sidenote{Unterschieden wird dieser Aspekt dadurch, was eine typische Anwendung mit einem Crowdsensing-Ansatz von einer Anwendung ohne diesen unterscheidet (z.B. Login/Registrierung vs. Messen von Sensordaten in Echtzeit)} Anforderungen in der folgenden Form näher erläutert:
 
 \textbf{Name der Anforderung (FR/NFR)}: Beschreibung und Begründung der Anforderung (\textit{Passform-Kriterium}; Priorität, wobei 1 die geringste und 5 die höchste Priorität darstellt)
 
@@ -125,16 +125,17 @@ aufgestellt. Aus dieser Aufzählung wird deutlich, dass das Ziel des Projektes, 
 Inwieweit die Anforderungen dieses Projekts erfüllt sind, wird in Kapitel \ref{sec:requirements_evaluation} evaluiert. 
 
 \section{User Stories}
-Im folgenden werden TODO: HIER ANZAHL User Stories beschrieben, um die Anforderungen an einem konkreten Beispiel zu repräsentieren. Angelegt werden diese in der folgenden Form unter Verwendung der Vorlage von \cite{AmblerUserStory}:
+Im folgenden werden User Stories beschrieben, um die Anforderungen an einem konkreten Beispiel zu repräsentieren. Die User Stories basieren dabei auf den Aussagen der Stakeholder aus den regelmäßigen Meetings, deren Bedürfnisse, Wünsche und Anregungen\sidenote{In Bezug auf das Klimamessnetz der Stadt Bamberg}, und sollen eine konkrete Vision für verschiedene Personen(-gruppen), welche durch die Entwicklung eines interaktiven Werkzeuges unterstützt wird, darstellen. Angelegt werden diese in der folgenden Form unter Verwendung der Vorlage von \cite{AmblerUserStory}:
 
-\enquote{Als <Rolle> möchte ich <Ziel/Wunsch>, um <Nutzen>}
+\enquote{Als \textbf{<Rolle>} möchte ich \textbf{<Ziel/Wunsch>}, um \textbf{<Nutzen>}}
 
 \begin{itemize}
     \item \textbf{Bürgerin der Stadt Bamberg}:
     \item \textbf{Mitglied des \ac{BVM}}:
     \item \textbf{Mitglied des \ac{ADFC} Bamberg}:
     \item \textbf{Studierende der Informatik an der Universität Bamberg}:
-    \item 
+    \item \textbf{Lehrende der Informatik an der Universität Bamberg}:
+    \item \textbf{Meteorologe in Bamberg}
 \end{itemize}
 
 \section{Use Cases}
