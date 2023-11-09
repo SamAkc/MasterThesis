@@ -1,0 +1,70 @@
+\chapter{Docker Compose}
+
+Im folgenden Abschnitt wird das Docker Compose File aufgeführt, welches für die Entwicklung der Anwendung verwendet wird. Es ist zu beachten, dass die Anwendung nicht für den produktiven Einsatz gedacht ist und daher nicht für die Verwendung in einem Docker Swarm Cluster optimiert ist. Die definierten Services gliedern sich dabei ein wie folgt:
+
+\begin{itemize}
+    \item \textbf{PostgreSQL:} Datenbank für die Speicherung der Messwerte
+    \begin{verbatim}
+        postgresql:
+        container_name: postgresql
+        image: postgres:15
+        restart: always
+        environment:
+          POSTGRES_DB: db
+          POSTGRES_USER: samet
+          POSTGRES_PASSWORD: admin
+        ports:
+          - "5432:5432"
+        volumes:
+          - postgresql:/var/lib/postgresql/data
+          - ./db/data:/data
+          - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    \end{verbatim}
+    \item \textbf{Grafana:} Visualisierung der Messwerte
+    \begin{verbatim}
+        grafana:
+        container_name: grafana
+        image: grafana/grafana:latest
+        user: "0:0"
+        environment:
+          GF_DATABASE_TYPE: postgres
+          GF_DATABASE_HOST: postgresql:5432
+          GF_DATABASE_NAME: db
+          GF_DATABASE_USER: samet
+          GF_DATABASE_PASSWORD: admin
+          GF_DATABASE_SSL_MODE: disable
+          GF_SECURITY_ALLOW_EMBEDDING: true
+        restart: unless-stopped
+        depends_on:
+          - postgresql
+        ports:
+          - 3000:3000
+        volumes:
+          - grafana:/var/lib/grafana
+          - ./grafana/provisioning:/etc/grafana/provisioning
+    \end{verbatim}
+    \item \textbf{Web:} Flask Webserver für die Bereitstellung der Messwerte
+    \begin{verbatim}
+        web:
+        container_name: flask-webserver
+        image: python:3.8-slim
+        ports:
+          - "5000:5000"
+        volumes:
+        - ./web:/app
+        working_dir: /app
+        command: > 
+          /bin/sh -c "pip install -r requirements.txt && flask --app index run --host=0.0.0.0"
+        depends_on:
+          - grafana
+    \end{verbatim}
+\end{itemize}
+
+Im Anschluss müssen die Volumes definiert werden:
+\begin{verbatim}
+    volumes:
+      postgresql:
+        driver: local
+      grafana:
+        driver: local
+\end{verbatim}

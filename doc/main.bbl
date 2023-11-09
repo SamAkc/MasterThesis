@@ -264,6 +264,36 @@
       \verb https://www.dwd.de/DE/service/lexikon/Functions/glossar.html?nn=103346&lv2=102672&lv3=102802
       \endverb
     \endentry
+    \entry{Klimaschutzgesetz}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3b17c5b0f3f47d3a7e3400d3af6dbb07}{%
+           family={{Die Bundesregierung}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{fullhash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{bibnamehash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{authorbibnamehash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{authornamehash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{authorfullhash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \field{labelalpha}{Die}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klimaschutzgesetz}
+      \field{titleaddon}{Generationenvertrag für das Klima}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz/klimaschutzgesetz-2021-1913672
+      \endverb
+      \verb{url}
+      \verb https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz/klimaschutzgesetz-2021-1913672
+      \endverb
+    \endentry
     \entry{institute1984ieee}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=3b4f0f3fbf57a67f138dbb29074557ff}{%
@@ -893,18 +923,50 @@
       \field{pages}{12\bibrangedash 16}
       \range{pages}{5}
     \endentry
-    \entry{Umweltbundesamt2023Hitze}{online}{}
+    \entry{UmweltbundesamtRisikoanalyse2021}{article}{}
       \name{author}{1}{}{%
-        {{hash=f1ea9b6d4cac1314d84262e96e708a3c}{%
-           family={{Umweltbundesamt Deutschland}},
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
            familyi={U\bibinitperiod}}}%
       }
-      \strng{namehash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{fullhash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{bibnamehash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{authorbibnamehash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{authornamehash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{authorfullhash}{f1ea9b6d4cac1314d84262e96e708a3c}
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{extraname}{1}
+      \field{labelalpha}{Umw21}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klimawirkungs- und Risikoanalyse 2021 für Deutschland}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/kwra2021_teilbericht_zusammenfassung_bf_211027_0.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/kwra2021_teilbericht_zusammenfassung_bf_211027_0.pdf
+      \endverb
+    \endentry
+    \entry{Umweltbundesamt2023Hitze}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{extraname}{2}
       \field{labelalpha}{Umw23}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
@@ -923,6 +985,98 @@
       \endverb
       \verb{url}
       \verb https://www.umweltbundesamt.de/daten/umwelt-gesundheit/gesundheitsrisiken-durch-hitze#indikatoren-der-lufttemperatur-heisse-tage-und-tropennachte
+      \endverb
+    \endentry
+    \entry{UmweltbundesamtBodenversiegelung}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{extraname}{3}
+      \field{labelalpha}{Umw}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bodenversiegelung}
+      \field{titleaddon}{Was ist Bodenversiegelung?}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#was-ist-bodenversiegelung
+      \endverb
+      \verb{url}
+      \verb https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#was-ist-bodenversiegelung
+      \endverb
+    \endentry
+    \entry{UmweltbundesamtKlimawandel}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{extraname}{4}
+      \field{labelalpha}{Umw}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grundlagen des Klimawandels}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.umweltbundesamt.de/themen/klima-energie/grundlagen-des-klimawandels
+      \endverb
+      \verb{url}
+      \verb https://www.umweltbundesamt.de/themen/klima-energie/grundlagen-des-klimawandels
+      \endverb
+    \endentry
+    \entry{UnitedNationsClimateChange}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{labelalpha}{Uni}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is Climate Change?}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.un.org/en/climatechange/what-is-climate-change
+      \endverb
+      \verb{url}
+      \verb https://www.un.org/en/climatechange/what-is-climate-change
       \endverb
     \endentry
     \entry{Wang2019}{article}{}
@@ -1222,6 +1376,36 @@
       \verb https://www.dwd.de/DE/service/lexikon/Functions/glossar.html?nn=103346&lv2=102672&lv3=102802
       \endverb
     \endentry
+    \entry{Klimaschutzgesetz}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3b17c5b0f3f47d3a7e3400d3af6dbb07}{%
+           family={{Die Bundesregierung}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{fullhash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{bibnamehash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{authorbibnamehash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{authornamehash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \strng{authorfullhash}{3b17c5b0f3f47d3a7e3400d3af6dbb07}
+      \field{labelalpha}{Die}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klimaschutzgesetz}
+      \field{titleaddon}{Generationenvertrag für das Klima}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz/klimaschutzgesetz-2021-1913672
+      \endverb
+      \verb{url}
+      \verb https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz/klimaschutzgesetz-2021-1913672
+      \endverb
+    \endentry
     \entry{institute1984ieee}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=3b4f0f3fbf57a67f138dbb29074557ff}{%
@@ -1851,18 +2035,113 @@
       \field{pages}{1879\bibrangedash 1900}
       \range{pages}{22}
     \endentry
-    \entry{Umweltbundesamt2023Hitze}{online}{}
+    \entry{UmweltbundesamtBodenversiegelung}{online}{}
       \name{author}{1}{}{%
-        {{hash=f1ea9b6d4cac1314d84262e96e708a3c}{%
-           family={{Umweltbundesamt Deutschland}},
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
            familyi={U\bibinitperiod}}}%
       }
-      \strng{namehash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{fullhash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{bibnamehash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{authorbibnamehash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{authornamehash}{f1ea9b6d4cac1314d84262e96e708a3c}
-      \strng{authorfullhash}{f1ea9b6d4cac1314d84262e96e708a3c}
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{extraname}{1}
+      \field{labelalpha}{Umw}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bodenversiegelung}
+      \field{titleaddon}{Was ist Bodenversiegelung?}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#was-ist-bodenversiegelung
+      \endverb
+      \verb{url}
+      \verb https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/boden/bodenversiegelung#was-ist-bodenversiegelung
+      \endverb
+    \endentry
+    \entry{UmweltbundesamtKlimawandel}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{extraname}{2}
+      \field{labelalpha}{Umw}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grundlagen des Klimawandels}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.umweltbundesamt.de/themen/klima-energie/grundlagen-des-klimawandels
+      \endverb
+      \verb{url}
+      \verb https://www.umweltbundesamt.de/themen/klima-energie/grundlagen-des-klimawandels
+      \endverb
+    \endentry
+    \entry{UmweltbundesamtRisikoanalyse2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{extraname}{3}
+      \field{labelalpha}{Umw21}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klimawirkungs- und Risikoanalyse 2021 für Deutschland}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/kwra2021_teilbericht_zusammenfassung_bf_211027_0.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/kwra2021_teilbericht_zusammenfassung_bf_211027_0.pdf
+      \endverb
+    \endentry
+    \entry{Umweltbundesamt2023Hitze}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{extraname}{4}
       \field{labelalpha}{Umw23}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
@@ -1881,6 +2160,35 @@
       \endverb
       \verb{url}
       \verb https://www.umweltbundesamt.de/daten/umwelt-gesundheit/gesundheitsrisiken-durch-hitze#indikatoren-der-lufttemperatur-heisse-tage-und-tropennachte
+      \endverb
+    \endentry
+    \entry{UnitedNationsClimateChange}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{labelalpha}{Uni}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is Climate Change?}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.un.org/en/climatechange/what-is-climate-change
+      \endverb
+      \verb{url}
+      \verb https://www.un.org/en/climatechange/what-is-climate-change
       \endverb
     \endentry
     \entry{Wang2019}{article}{}
