@@ -294,38 +294,42 @@
       \verb https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz/klimaschutzgesetz-2021-1913672
       \endverb
     \endentry
-    \entry{institute1984ieee}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=3b4f0f3fbf57a67f138dbb29074557ff}{%
-           family={Electrical},
-           familyi={E\bibinitperiod},
-           given={Institute},
-           giveni={I\bibinitperiod},
-           prefix={of},
-           prefixi={o\bibinitperiod}}}%
-        {{hash=4b130cfa309b2ff17cea51cb7fb7d85f}{%
-           family={Engineers},
-           familyi={E\bibinitperiod},
-           given={Electronics},
-           giveni={E\bibinitperiod}}}%
+    \entry{fenner2015innerstadtische}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3a138a1e1c0eb1783b5c8a4c9d1e872b}{%
+           family={Fenner},
+           familyi={F\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2f85b7f6419c343835c1945863b2988f}{%
+           family={Mücke},
+           familyi={M\bibinitperiod},
+           given={Hans-Guido},
+           giveni={H\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=b844a9a6e871ee023928cf391ef1a425}{%
+           family={Scherer},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
       }
-      \list{organization}{2}{%
-        {Inst. of Electrical}%
-        {Electronics Engineers}%
-      }
-      \strng{namehash}{bbcfa0997876af8df433758706aa3923}
-      \strng{fullhash}{bbcfa0997876af8df433758706aa3923}
-      \strng{bibnamehash}{bbcfa0997876af8df433758706aa3923}
-      \strng{authorbibnamehash}{bbcfa0997876af8df433758706aa3923}
-      \strng{authornamehash}{bbcfa0997876af8df433758706aa3923}
-      \strng{authorfullhash}{bbcfa0997876af8df433758706aa3923}
-      \field{labelalpha}{EE84}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \strng{namehash}{72f614eb74739281bab7b3749322eabd}
+      \strng{fullhash}{72f614eb74739281bab7b3749322eabd}
+      \strng{bibnamehash}{72f614eb74739281bab7b3749322eabd}
+      \strng{authorbibnamehash}{72f614eb74739281bab7b3749322eabd}
+      \strng{authornamehash}{72f614eb74739281bab7b3749322eabd}
+      \strng{authorfullhash}{72f614eb74739281bab7b3749322eabd}
+      \field{labelalpha}{FMS15}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{IEEE guide to software requirements specifications: approved September 22, 1983, IEEE Standards Board; approved July 20, 1984, American National Standards Institute}
-      \field{year}{1984}
+      \field{journaltitle}{Umwelt und Mensch}
+      \field{number}{2015}
+      \field{title}{Innerstädtische Lufttemperatur als Indikator gesundheitlicher Belastungen in Großstädten am Beispiel Berlins}
+      \field{volume}{1}
+      \field{year}{2015}
+      \field{pages}{30\bibrangedash 38}
+      \range{pages}{9}
     \endentry
     \entry{Ganti2011}{article}{}
       \name{author}{3}{}{%
@@ -360,6 +364,68 @@
       \field{title}{Mobile Crowdsensing: Current State and Future Challenges}
       \field{year}{2011}
       \field{dateera}{ce}
+    \endentry
+    \entry{GlobalCarbonAtlas2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d1e223b4116570f56b4ecb52994e54b4}{%
+           family={{Global Carbon Atlas}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{fullhash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{bibnamehash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{authorbibnamehash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{authornamehash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{authorfullhash}{d1e223b4116570f56b4ecb52994e54b4}
+      \field{labelalpha}{Glo23}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Carbon Emissions}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://globalcarbonatlas.org/emissions/carbon-emissions/
+      \endverb
+      \verb{url}
+      \verb https://globalcarbonatlas.org/emissions/carbon-emissions/
+      \endverb
+    \endentry
+    \entry{Heinisch2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a40c4312a85dd1605efaf3f576ec14f6}{%
+           family={Heinisch},
+           familyi={H\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{fullhash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{bibnamehash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{authorbibnamehash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{authornamehash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{authorfullhash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \field{labelalpha}{Hei21}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Public Humanities und Citizen Science: Dasselbe in Grün?}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.buergerschaffenwissen.de/blog/public-humanities-und-citizen-science-dasselbe-gruen
+      \endverb
+      \verb{url}
+      \verb https://www.buergerschaffenwissen.de/blog/public-humanities-und-citizen-science-dasselbe-gruen
+      \endverb
     \endentry
     \entry{Heinrich2014}{book}{}
       \name{author}{3}{}{%
@@ -425,6 +491,30 @@
       \field{year}{2006}
       \field{pages}{176\bibrangedash 183}
       \range{pages}{8}
+    \endentry
+    \entry{institute1984ieee}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=e2dd85d5ed4ff94326a8b5cb5fb21ab4}{%
+           family={{Institute of Electrical and Electronics Engineers}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {Inst. of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{fullhash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{bibnamehash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{authorbibnamehash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{authornamehash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{authorfullhash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \field{labelalpha}{Ins84}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IEEE guide to software requirements specifications: approved September 22, 1983, IEEE Standards Board; approved July 20, 1984, American National Standards Institute}
+      \field{year}{1984}
     \endentry
     \entry{Bodensee2021}{online}{}
       \name{author}{3}{}{%
@@ -856,6 +946,36 @@
       \verb https://wirtschaftslexikon.gabler.de/definition/agile-softwareentwicklung-53460/version-276549
       \endverb
     \endentry
+    \entry{StatistischesBundesamt2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c67d4b4a4397f84a4fe4580e6f9aa63d}{%
+           family={{Statistisches Bundesamt}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{fullhash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{bibnamehash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{authorbibnamehash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{authornamehash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{authorfullhash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \field{labelalpha}{Sta23}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klima}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.destatis.de/DE/Im-Fokus/Klima/_inhalt.html#sprg574424
+      \endverb
+      \verb{url}
+      \verb https://www.destatis.de/DE/Im-Fokus/Klima/_inhalt.html#sprg574424
+      \endverb
+    \endentry
     \entry{stewart2012local}{article}{}
       \name{author}{2}{}{%
         {{hash=a52ee412be9f2c40dd19c7d8dd1ecc90}{%
@@ -1127,6 +1247,38 @@
       \range{pages}{16}
       \verb{doi}
       \verb 10.1109/TCSS.2019.2907059
+      \endverb
+    \endentry
+    \entry{Wehner2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5d210f6287bbd641fdbb0f9630f2dc3b}{%
+           family={Wehner},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{fullhash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{bibnamehash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{authorbibnamehash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{authornamehash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{authorfullhash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \field{labelalpha}{Weh16}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Flüchtlinge und Uni: Bambergs Einwohnerzahl steigt}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.infranken.de/lk/bamberg/fluechtlinge-und-uni-bambergs-einwohnerzahl-steigt-art-1562058#anker
+      \endverb
+      \verb{url}
+      \verb https://www.infranken.de/lk/bamberg/fluechtlinge-und-uni-bambergs-einwohnerzahl-steigt-art-1562058#anker
       \endverb
     \endentry
   \enddatalist
@@ -1406,38 +1558,72 @@
       \verb https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz/klimaschutzgesetz-2021-1913672
       \endverb
     \endentry
-    \entry{institute1984ieee}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=3b4f0f3fbf57a67f138dbb29074557ff}{%
-           family={Electrical},
-           familyi={E\bibinitperiod},
-           given={Institute},
-           giveni={I\bibinitperiod},
-           prefix={of},
-           prefixi={o\bibinitperiod}}}%
-        {{hash=4b130cfa309b2ff17cea51cb7fb7d85f}{%
-           family={Engineers},
-           familyi={E\bibinitperiod},
-           given={Electronics},
-           giveni={E\bibinitperiod}}}%
+    \entry{fenner2015innerstadtische}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3a138a1e1c0eb1783b5c8a4c9d1e872b}{%
+           family={Fenner},
+           familyi={F\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2f85b7f6419c343835c1945863b2988f}{%
+           family={Mücke},
+           familyi={M\bibinitperiod},
+           given={Hans-Guido},
+           giveni={H\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=b844a9a6e871ee023928cf391ef1a425}{%
+           family={Scherer},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
       }
-      \list{organization}{2}{%
-        {Inst. of Electrical}%
-        {Electronics Engineers}%
-      }
-      \strng{namehash}{bbcfa0997876af8df433758706aa3923}
-      \strng{fullhash}{bbcfa0997876af8df433758706aa3923}
-      \strng{bibnamehash}{bbcfa0997876af8df433758706aa3923}
-      \strng{authorbibnamehash}{bbcfa0997876af8df433758706aa3923}
-      \strng{authornamehash}{bbcfa0997876af8df433758706aa3923}
-      \strng{authorfullhash}{bbcfa0997876af8df433758706aa3923}
-      \field{labelalpha}{EE84}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \strng{namehash}{72f614eb74739281bab7b3749322eabd}
+      \strng{fullhash}{72f614eb74739281bab7b3749322eabd}
+      \strng{bibnamehash}{72f614eb74739281bab7b3749322eabd}
+      \strng{authorbibnamehash}{72f614eb74739281bab7b3749322eabd}
+      \strng{authornamehash}{72f614eb74739281bab7b3749322eabd}
+      \strng{authorfullhash}{72f614eb74739281bab7b3749322eabd}
+      \field{labelalpha}{FMS15}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{IEEE guide to software requirements specifications: approved September 22, 1983, IEEE Standards Board; approved July 20, 1984, American National Standards Institute}
-      \field{year}{1984}
+      \field{journaltitle}{Umwelt und Mensch}
+      \field{number}{2015}
+      \field{title}{Innerstädtische Lufttemperatur als Indikator gesundheitlicher Belastungen in Großstädten am Beispiel Berlins}
+      \field{volume}{1}
+      \field{year}{2015}
+      \field{pages}{30\bibrangedash 38}
+      \range{pages}{9}
+    \endentry
+    \entry{GlobalCarbonAtlas2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d1e223b4116570f56b4ecb52994e54b4}{%
+           family={{Global Carbon Atlas}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{fullhash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{bibnamehash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{authorbibnamehash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{authornamehash}{d1e223b4116570f56b4ecb52994e54b4}
+      \strng{authorfullhash}{d1e223b4116570f56b4ecb52994e54b4}
+      \field{labelalpha}{Glo23}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Carbon Emissions}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://globalcarbonatlas.org/emissions/carbon-emissions/
+      \endverb
+      \verb{url}
+      \verb https://globalcarbonatlas.org/emissions/carbon-emissions/
+      \endverb
     \endentry
     \entry{Ganti2011}{article}{}
       \name{author}{3}{}{%
@@ -1472,6 +1658,38 @@
       \field{title}{Mobile Crowdsensing: Current State and Future Challenges}
       \field{year}{2011}
       \field{dateera}{ce}
+    \endentry
+    \entry{Heinisch2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a40c4312a85dd1605efaf3f576ec14f6}{%
+           family={Heinisch},
+           familyi={H\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{fullhash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{bibnamehash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{authorbibnamehash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{authornamehash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \strng{authorfullhash}{a40c4312a85dd1605efaf3f576ec14f6}
+      \field{labelalpha}{Hei21}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Public Humanities und Citizen Science: Dasselbe in Grün?}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.buergerschaffenwissen.de/blog/public-humanities-und-citizen-science-dasselbe-gruen
+      \endverb
+      \verb{url}
+      \verb https://www.buergerschaffenwissen.de/blog/public-humanities-und-citizen-science-dasselbe-gruen
+      \endverb
     \endentry
     \entry{Heinrich2014}{book}{}
       \name{author}{3}{}{%
@@ -1576,6 +1794,30 @@
       \verb{url}
       \verb https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Nachhaltigkeit_und_Umweltbildung/Digitalisierung/CrowdSensing-fuer-Bodensee-Online-Zusammenfassung.pdf
       \endverb
+    \endentry
+    \entry{institute1984ieee}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=e2dd85d5ed4ff94326a8b5cb5fb21ab4}{%
+           family={{Institute of Electrical and Electronics Engineers}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {Inst. of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{fullhash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{bibnamehash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{authorbibnamehash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{authornamehash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \strng{authorfullhash}{e2dd85d5ed4ff94326a8b5cb5fb21ab4}
+      \field{labelalpha}{Ins84}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IEEE guide to software requirements specifications: approved September 22, 1983, IEEE Standards Board; approved July 20, 1984, American National Standards Institute}
+      \field{year}{1984}
     \endentry
     \entry{Lane2010}{article}{}
       \name{author}{6}{}{%
@@ -2035,6 +2277,36 @@
       \field{pages}{1879\bibrangedash 1900}
       \range{pages}{22}
     \endentry
+    \entry{StatistischesBundesamt2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c67d4b4a4397f84a4fe4580e6f9aa63d}{%
+           family={{Statistisches Bundesamt}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{fullhash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{bibnamehash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{authorbibnamehash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{authornamehash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \strng{authorfullhash}{c67d4b4a4397f84a4fe4580e6f9aa63d}
+      \field{labelalpha}{Sta23}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klima}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.destatis.de/DE/Im-Fokus/Klima/_inhalt.html#sprg574424
+      \endverb
+      \verb{url}
+      \verb https://www.destatis.de/DE/Im-Fokus/Klima/_inhalt.html#sprg574424
+      \endverb
+    \endentry
     \entry{UmweltbundesamtBodenversiegelung}{online}{}
       \name{author}{1}{}{%
         {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
@@ -2239,6 +2511,38 @@
       \range{pages}{16}
       \verb{doi}
       \verb 10.1109/TCSS.2019.2907059
+      \endverb
+    \endentry
+    \entry{Wehner2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5d210f6287bbd641fdbb0f9630f2dc3b}{%
+           family={Wehner},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{fullhash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{bibnamehash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{authorbibnamehash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{authornamehash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \strng{authorfullhash}{5d210f6287bbd641fdbb0f9630f2dc3b}
+      \field{labelalpha}{Weh16}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Flüchtlinge und Uni: Bambergs Einwohnerzahl steigt}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.infranken.de/lk/bamberg/fluechtlinge-und-uni-bambergs-einwohnerzahl-steigt-art-1562058#anker
+      \endverb
+      \verb{url}
+      \verb https://www.infranken.de/lk/bamberg/fluechtlinge-und-uni-bambergs-einwohnerzahl-steigt-art-1562058#anker
       \endverb
     \endentry
   \enddatalist
