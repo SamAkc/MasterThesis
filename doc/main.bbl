@@ -169,7 +169,7 @@
       \field{volume}{1}
       \field{year}{2004}
     \endentry
-    \entry{Burke2006}{article}{}
+    \entry{Burke2006}{book}{}
       \name{author}{7}{}{%
         {{hash=49958e693bda5d246eef0d6aa7c4e398}{%
            family={Burke},
@@ -702,7 +702,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{german}
-      \field{month}{11}
       \field{title}{Projekt \enquote{Crowdsensing} für Bodensee Online}
       \field{urlday}{4}
       \field{urlmonth}{10}
@@ -1145,7 +1144,7 @@
       \field{pages}{12\bibrangedash 16}
       \range{pages}{5}
     \endentry
-    \entry{UmweltbundesamtRisikoanalyse2021}{article}{}
+    \entry{UmweltbundesamtRisikoanalyse2021}{online}{}
       \name{author}{1}{}{%
         {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
            family={Umweltbundesamt},
@@ -1351,7 +1350,7 @@
       \verb 10.1109/TCSS.2019.2907059
       \endverb
     \endentry
-    \entry{Wehner2016}{article}{}
+    \entry{Wehner2016}{online}{}
       \name{author}{1}{}{%
         {{hash=5d210f6287bbd641fdbb0f9630f2dc3b}{%
            family={Wehner},
@@ -1535,7 +1534,7 @@
       \field{volume}{1}
       \field{year}{2004}
     \endentry
-    \entry{Burke2006}{article}{}
+    \entry{Burke2006}{book}{}
       \name{author}{7}{}{%
         {{hash=49958e693bda5d246eef0d6aa7c4e398}{%
            family={Burke},
@@ -2068,7 +2067,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{german}
-      \field{month}{11}
       \field{title}{Projekt \enquote{Crowdsensing} für Bodensee Online}
       \field{urlday}{4}
       \field{urlmonth}{10}
@@ -2574,7 +2572,7 @@
       \verb https://www.umweltbundesamt.de/themen/klima-energie/grundlagen-des-klimawandels
       \endverb
     \endentry
-    \entry{UmweltbundesamtRisikoanalyse2021}{article}{}
+    \entry{UmweltbundesamtRisikoanalyse2021}{online}{}
       \name{author}{1}{}{%
         {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
            family={Umweltbundesamt},
@@ -2717,7 +2715,7 @@
       \verb 10.1109/TCSS.2019.2907059
       \endverb
     \endentry
-    \entry{Wehner2016}{article}{}
+    \entry{Wehner2016}{online}{}
       \name{author}{1}{}{%
         {{hash=5d210f6287bbd641fdbb0f9630f2dc3b}{%
            family={Wehner},
