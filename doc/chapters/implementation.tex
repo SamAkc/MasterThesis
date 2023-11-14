@@ -2,13 +2,6 @@
 \label{sec:implementation}
 In diesem Kapitel der Arbeit wird die Implementierung auf Basis der aufgestellten Anforderungen in Kapitel \ref{sec:requirements} betrachtet. Die Verzeichnisstruktur, auf welche in den folgenden Kapiteln eingegangen wird, ist als Baumstruktur mit Abbildung \ref{fig:dirstructure} gegeben. Die gesamte Applikation befindet sich auf dem Repository im Verzeichnis \texttt{app}. Da die allgemeine Architektur (vgl. Abbildung \ref{fig:architecture}) mithilfe der Containervirtualisierung über Docker aufgebaut ist, wird zunächst dieser Aspekt erläutert. Im Anschluss findet jeweils eine Unterscheidung zwischen der Architektur für das Front-End und das Back-End statt.
 
-\begin{figure*}[t]
-    \centering
-    \includegraphics[width=\widefigurewidth]{appendices/Architektur.pdf}
-    \caption[Architektur]{Die vorliegende Architektur für die Applikation}
-    \label{fig:architecture}
-\end{figure*}
-
 \begin{marginfigure}
     \centering
     \begin{adjustbox}{width=\textwidth}
@@ -44,6 +37,13 @@ In diesem Kapitel der Arbeit wird die Implementierung auf Basis der aufgestellte
     \label{fig:dirstructure}
 \end{marginfigure}
 
+\begin{figure*}[t]
+    \centering
+    \includegraphics[width=\widefigurewidth]{appendices/Architektur.pdf}
+    \caption[Architektur]{Die vorliegende Architektur für die Applikation}
+    \label{fig:architecture}
+\end{figure*}
+
 \section{Containervirtualisierung mit Docker}
 Aufgrund der Tatsache, dass ein privater Entwickler ein Produktivsystem mit mehreren Komponenten simulieren muss, hat sich der Einsatz Dockers als sinnvoll erwiesen. Docker ist eine Open-Source-Software, die es ermöglicht, Anwendungen mithilfe von Containervirtualisierung zu isolieren. Die Anwendung wird in einem Container ausgeführt, der alle Abhängigkeiten enthält, die für die Ausführung der Anwendung erforderlich sind. Die Container sind leichtgewichtiger als virtuelle Maschinen, da sie den Kernel des Host-Betriebssystems nutzen\sidenote{\url{https://www.docker.com/resources/what-container/}}. Dabei sind drei Anwendungen notwendig: eine Python-Flask Instanz für einen Webserver (Port 5000), eine PostgreSQL-Instanz für die Datenbank (Port 5432) und eine Grafana-Instanz (Port 3000) für die Verarbeitung und Visualisierung der Daten aus der Datenbank. Die drei Anwendungen werden jeweils in einem eigenen Container ausgeführt und einem Netzwerk zugewiesen, um eine Kommunikation zwischen den Containern zu ermöglichen (vgl. Abbildung \ref{fig:dockerarchitecture}). Die notwendigen Eigenschaften hierfür werden in einer \texttt{docker-compose.yml}-Datei (vgl. Anhang \ref{appendix:docker_compose} definiert. Diese Datei wird von Docker verwendet, um die Container zu erstellen und zu starten. Die \texttt{docker-compose.yml}-Datei befindet sich im Hauptverzeichnis der Applikation.
 
@@ -59,14 +59,14 @@ Das Front-End der Applikation ist mit dem Web-Framework Python-Flask\sidenote{\u
 
 \begin{itemize}
     \item \textbf{templates} für alle HTML-Dateien, die als Templates für die Jinja2-Engine dienen. In dem Verzeichnis befindet sich die \texttt{base.html}, welche die Grundlage für alle anderen HTML-Dateien darstellt. In dieser werden alle notwendigen Komponenten wie Stylesheets, JavaScript-Code und die Navigation eingebunden. Die anderen HTML-Dateien erben von dieser Datei und können somit auf die Komponenten zugreifen.
-    \item \textbf{static} für alle statischen Dateien, wie CSS-Stylesheets und Bilder (z.B. Favicons für Logos). Auch JavaScript-Dateien werden hier abgelegt um Unterverzeichnisse simpler zu gestalten, obwohl es sich hier um eine dynamische Programmiersprache handelt.
+    \item \textbf{static} für alle statischen Dateien, wie CSS-Stylesheets und Bilder (z.B. Favicons für Logos). Auch JavaScript-Dateien werden hier abgelegt, um Unterverzeichnisse simpler zu gestalten, obwohl es sich hier um eine dynamische Programmiersprache handelt.
     \item \textbf{index.py} für die Python-Flask-Instanz, die den Webserver darstellt. In dieser Datei werden alle Routen definiert, die der Webserver bereitstellen soll. Das Session- und Cookie-Handling, HTTP-Requests und -Responses und das Logging können ebenfalls in dieser Datei definiert werden.
     \item \textbf{requirements.txt} für alle Python-Abhängigkeiten, die für die Ausführung der Applikation notwendig sind. Diese Datei wird von Docker verwendet, um die Abhängigkeiten zu installieren.
 \end{itemize}
 
 Zum Visualisieren und Interagieren der Daten kommt die Open-Source-Software Grafana\sidenote{\url{https://grafana.com/}} zum Einsatz. Mithilfe von Grafana lassen sich Daten aus einer Datenbank abrufen (vgl. \ref{sec:backend}), individuell visualisieren und in Dashboards einpflegen (vgl. Abbildung \ref{fig:grafana}). Zu Visualisierungszwecken befinden sich acht Dashboards in der Sammlung der Bamberger Wetterstationen, wobei es sich bei einem Dashboard um die Zusammenlegung der anderen sieben Wetterstationen handelt, um einen Vergleich zwischen diesen zu ermöglichen. Der Fokus liegt dabei auf der Visualisierung der Temperatur zu einer gegebenen Uhrzeit für jede Wetterstation. Mithilfe von Grenzwerten, die in den Dashboards definiert werden können, lassen sich Temperaturbereiche farblich\sidenote{Die Farbe Blau soll repräsentativ für kalte Temperaturen sein, während die Farbe Rot hohe Temperaturen symbolisieren soll} hervorheben. Der Aspekt des Crowdsensings wird nativ von Grafana durch die Möglichkeit, einen Punkt auf dem Graphen zu markieren und eine Annotation an diese Markierung hinzuzufügen, unterstützt. Diese Annotationen sollen dann durch andere Nutzer*innen des Werkzeuges eingesehen werden können.
 
-Das Front-End bietet mehrere Seiten an, zwischen jenen mithilfe des Routings navigiert werden kann:
+Das Front-End bietet mehrere Seiten an, zwischen jenen mithilfe von Weiterleitungen durch Links navigiert werden kann:
 
 \begin{itemize}
     \item \textbf{Home} für die Startseite der Applikation. Hier werden alle Wetterstationen und die definierten \ac{LCZ} auf einer OpenStreetMap\sidenote{\url{https://www.openstreetmap.org/}}-Karte eingeblendet. Auf der rechten Seite haben die Nutzer*innen mithilfe eines Chatfensters die Möglichkeit, sich mit anderen Nutzer*innen zu den Daten auf der Karte auszutauschen.

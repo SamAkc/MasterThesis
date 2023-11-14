@@ -1,0 +1,1612 @@
+PWD c:\Users\samet\git\MasterThesis\doc
+INPUT c:\Users\samet\git\MasterThesis\doc\main.tex
+OUTPUT main.log
+OUTPUT main.log
+INPUT C:\Program Files\MiKTeX\tex\latex\latexconfig\lualatexquotejobname.lua
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ltluatex.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-main.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-init.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\lualibs\lualibs.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\lualibs\lualibs-basic.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\lualibs\lualibs-basic-merged.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\lualibs\lualibs-compat.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\lualibs\lualibs-extended.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\lualibs\lualibs-extended-merged.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-log.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\fontloader-basics-gen.lua
+OUTPUT C:\Users\samet\AppData\Local\MiKTeX\m_t_x_t_e_s_t.tmp
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-parsers.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-configuration.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-status.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\fontloader-2023-08-19.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-fallback.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-multiscript.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-scripts.lua
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\ScriptExtensions.txt
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\Scripts.txt
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-loaders.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-database.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-unicode.lua
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\PropList.txt
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\WordBreakProperty.txt
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\SpecialCasing.txt
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\luatex\lua-uni-algos\lua-uni-case.lua
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\luatex\lua-uni-algos\lua-uni-parse.lua
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\CaseFolding.txt
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-colors.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-resolvers.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-features.lua
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\luatex\lua-uni-algos\lua-uni-normalize.lua
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-harf-define.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-harf-var-cff2.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-harf-var-t2-writer.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-harf-var-ttf.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-harf-plug.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-letterspace.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-embolden.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-notdef.lua
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\PropList.txt
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-suppress.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-szss.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-auxiliary.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-tounicode.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-case.lua
+INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-bcp47.lua
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.lua
+INPUT .\PSIThesis.cls
+INPUT .\PSIThesis.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-luatex.lua
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk11.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk11.clo
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-names.luc.gz
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman10-regular.luc
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\luababel.def
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\luababel.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\config\language.dat
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\config\language.dat
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\luababel.def
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\luababel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\babel-german\ngerman.ldf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\babel-german\ngerman.ldf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\babel-german\ngermanb.ldf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\babel-german\ngermanb.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\hyph-utf8\loadhyph\loadhyph-de-1996.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\hyph-utf8\loadhyph\loadhyph-de-1996.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\hyph-utf8\patterns\tex\hyph-de-1996.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\hyph-utf8\patterns\tex\hyph-de-1996.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\de\babel-ngerman.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\de\babel-ngerman.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\de\babel-de.ini
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\de\babel-de.ini
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrhack.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrhack.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\setspace.hak
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\setspace.hak
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.lua
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\luatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\luatex.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlayer-scrpage.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlayer-scrpage.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlayer.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlayer.sty
+INPUT .\misc\setup.tex
+INPUT .\misc\setup.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\lualatex\luainputenc\luainputenc.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\lualatex\luainputenc\luainputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\lualatex\luainputenc\luainputenc.lua
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\lualatex\luainputenc\lutf8.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\lualatex\luainputenc\lutf8.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\omsenc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\omsenc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ot1enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ot1enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\newtxmath.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\newtxmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\oberdiek\centernot.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\oberdiek\centernot.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.lua
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman10-bold.luc
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-lookup-cache.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\cochineal-roman.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\cochineal-bolditalic.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\cochineal-bold.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\cochineal-italic.luc
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\iosevka-ss04-regular.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\iosevka-ss04-bold.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\iosevka-ss04-italic.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\iosevka-ss04-bolditalic.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\roboto-regular.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\roboto-bold.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\roboto-italic.luc
+INPUT C:\Users\samet\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\roboto-bolditalic.luc
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\etoc\etoc.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\etoc\etoc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\acronym\acronym.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\acronym\acronym.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\bigfoot\suffix.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\bigfoot\suffix.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\marginnote\marginnote.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\marginnote\marginnote.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\marginfix\marginfix.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\marginfix\marginfix.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype-luatex.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype-luatex.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.lua
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-unicode.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-unicode.def
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\alphabetic.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\alphabetic.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\alphabetic.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\alphabetic.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\todonotes\todonotes.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\todonotes\todonotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hluatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hluatex.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\datetime\datetime.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\datetime\datetime.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fmtcount.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fmtcount.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fcprefix.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fcprefix.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fcnumparser.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fcnumparser.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fc-ngerman.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fc-ngerman.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fc-german.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fc-german.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fc-germanb.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fc-germanb.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fc-ngermanb.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\fmtcount\fc-ngermanb.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\datetime\datetime-defaults.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\datetime\datetime-defaults.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\datetime\dt-ngerman.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\datetime\dt-ngerman.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\listings.hak
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\listings.hak
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\tocbasic.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\tocbasic.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\sidenotes\sidenotes.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\sidenotes\sidenotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\psnfss\pifont.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\psnfss\pifont.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\collectbox\collectbox.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\collectbox\collectbox.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\adjustbox\tc-pgf.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\adjustbox\tc-pgf.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\pdfpages\ppluatex.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\pdfpages\ppluatex.def
+INPUT .\misc\commands.tex
+INPUT .\misc\commands.tex
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT .\misc\titlepage.aux
+INPUT .\misc\titlepage.aux
+INPUT .\appendices\requirements_table.aux
+INPUT .\appendices\requirements_table.aux
+INPUT .\appendices\docker_compose.aux
+INPUT .\appendices\docker_compose.aux
+OUTPUT main.aux
+OUTPUT main.aux
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\omlzcochmi.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\omlzcochmi.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-german.trsl
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-german.trsl
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\ngerman.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\ngerman.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+OUTPUT main.bcf
+OUTPUT main.bcf
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.out
+INPUT .\main.out
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.pdf
+OUTPUT main.pdf
+INPUT .\main.out
+OUTPUT main.out
+OUTPUT main.out
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\lscape.hak
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\koma-script\lscape.hak
+OUTPUT misc\titlepage.aux
+OUTPUT misc\titlepage.aux
+INPUT .\misc\titlepage.tex
+INPUT .\misc\titlepage.tex
+INPUT .\misc\UB_Logo_20mm_CMYK.pdf
+INPUT .\misc\UB_Logo_20mm_CMYK.pdf
+INPUT .\misc\UB_Logo_20mm_CMYK.pdf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msa.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msa.cfg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msb.cfg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msb.cfg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+OUTPUT main.toc
+OUTPUT main.toc
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\chapters\abbreviations.tex
+INPUT .\chapters\abbreviations.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\chapters\introduction.tex
+INPUT .\chapters\introduction.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy7.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy7.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy5.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy5.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy5.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy5.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy5.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy5.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT .\chapters\background.tex
+INPUT .\chapters\background.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\figures\crowdsensing.png
+INPUT .\figures\crowdsensing.png
+INPUT .\figures\crowdsensing.png
+INPUT .\figures\crowdsensing.png
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\figures\crowdsensing.png
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\chapters\concept.tex
+INPUT .\chapters\concept.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\chapters\requirements.tex
+INPUT .\chapters\requirements.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\figures\lcz.jpg
+INPUT .\figures\lcz.jpg
+INPUT .\figures\lcz.jpg
+INPUT .\figures\lcz.jpg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\figures\lcz.jpg
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\figures\usecases.png
+INPUT .\figures\usecases.png
+INPUT .\figures\usecases.png
+INPUT .\figures\usecases.png
+INPUT .\chapters\implementation.tex
+INPUT .\chapters\implementation.tex
+INPUT .\figures\usecases.png
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\appendices\Architektur.pdf
+INPUT .\appendices\Architektur.pdf
+INPUT .\appendices\Architektur.pdf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\appendices\Architektur_Docker.pdf
+INPUT .\appendices\Architektur_Docker.pdf
+INPUT .\appendices\Architektur_Docker.pdf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\figures\grafana.png
+INPUT .\figures\grafana.png
+INPUT .\figures\grafana.png
+INPUT .\figures\grafana.png
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\latin1.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\latin1.def
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy7.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy7.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT .\figures\grafana.png
+INPUT .\chapters\discussion.tex
+INPUT .\chapters\discussion.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\chapters\conclusion.tex
+INPUT .\chapters\conclusion.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+OUTPUT appendices\requirements_table.aux
+OUTPUT appendices\requirements_table.aux
+INPUT .\appendices\requirements_table.tex
+INPUT .\appendices\requirements_table.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+INPUT .\appendices\requirements.pdf
+OUTPUT appendices\docker_compose.aux
+OUTPUT appendices\docker_compose.aux
+INPUT .\appendices\docker_compose.tex
+INPUT .\appendices\docker_compose.tex
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxsyc.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\vf\public\newtx\ntxexa.vf
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\tfm\public\newtx\txexas.tfm
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\tex\latex\cochineal\Cochineal.fontspec
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT .\misc\titlepage.aux
+INPUT .\misc\titlepage.aux
+INPUT .\appendices\requirements_table.aux
+INPUT .\appendices\requirements_table.aux
+INPUT .\appendices\docker_compose.aux
+INPUT .\appendices\docker_compose.aux
+INPUT .\main.out
+INPUT .\main.run.xml
+INPUT .\main.run.xml
+OUTPUT main.run.xml
+OUTPUT main.run.xml
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\type1\public\newtx\txsym.pfb
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\type1\public\newtx\txsym.pfb
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\type1\public\newtx\txsys.pfb
+INPUT C:\Users\samet\AppData\Roaming\MiKTeX\fonts\type1\public\newtx\txsys.pfb

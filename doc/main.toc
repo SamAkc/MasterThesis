@@ -1,0 +1,47 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {ngerman}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Hintergrund}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Der Klimawandel in Deutschland}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Crowdsensing vs. Crowdsourcing}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Verwandte Arbeiten}{8}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Konzept}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Grundgedanke der Arbeit}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methodologie zum Aufstellen der Anforderungen}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Erfassung der notwendigen Komponenten der Software}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Umsetzung}{13}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Vorbereitung}{14}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Sammeln von Erfahrungen}{14}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Planung von Verbesserungsschritten}{14}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Piloting, Follow-up und Validierung der Verbesserungsschritte}{15}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Aufbewahrung der Verbesserungsschritte}{15}{subsection.3.4.5}%
+\contentsline {chapter}{\numberline {4}Anforderungsanalyse}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ausgangslage in Bamberg}{17}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Identifikation der Stakeholder}{19}{subsection.4.1.1}%
+\contentsline {paragraph}{Der B\"urgerverein Bamberg Mitte e.V.:}{19}{paragraph*.12}%
+\contentsline {paragraph}{Der Dom\"anenexperte:}{20}{paragraph*.13}%
+\contentsline {paragraph}{Der \ac {MOBI}:}{21}{paragraph*.14}%
+\contentsline {paragraph}{Weitere Stakeholder:}{21}{paragraph*.16}%
+\contentsline {section}{\numberline {4.2}Anforderungen}{22}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Priorisierung}{22}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Erfassung}{22}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Analyse}{25}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}User Stories}{26}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Use Cases}{27}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Implementierung und Design}{29}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Containervirtualisierung mit Docker}{29}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Architektur f\"ur das Front-End}{30}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Architektur f\"ur das Back-End}{32}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Diskussion und Evaluation}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Erf\"ullen der Anforderungen}{35}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Evaluation des Projekts}{37}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Evaluation der Zusammenarbeit mit den Stakeholdern}{38}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Evaluation auf Grundlage der Literatur}{39}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Limitationen der Arbeit}{40}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Fazit und Ausblick}{43}{chapter.7}%
+\def \chaptername {Appendix}
+\contentsline {chapter}{\numberline {A}Anforderungen}{45}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Docker Compose}{47}{appendix.B}%
+\contentsline {chapter}{Literaturverzeichnis}{49}{appendix*.27}%
+\contentsline {chapter}{Eidesstattliche Erkl\"arung}{51}{appendix*.28}%

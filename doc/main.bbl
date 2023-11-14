@@ -125,6 +125,50 @@
       \verb https://www.science.org/doi/abs/10.1126/science.aax0848
       \endverb
     \endentry
+    \entry{baumgart2004klein}{article}{}
+      \name{author}{5}{}{%
+        {{hash=759bb399310d495627412e727f321e94}{%
+           family={Baumgart},
+           familyi={B\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8cb621f99bd834a83078556099540924}{%
+           family={Flacke},
+           familyi={F\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8340fbaa09f07730fdef65291d71a55a}{%
+           family={Grüger},
+           familyi={G\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9a0bd4db6a5af340d5f4ea9dae7b8b59}{%
+           family={Lütke},
+           familyi={L\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4cf9f4f1c987ca6d22b4d73ed8ec247e}{%
+           family={Rüdiger},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b24e19cd8c5bf098e51ef99c6ddc4dc5}
+      \strng{fullhash}{9d9926d9ffe68a3571cd333deb48805b}
+      \strng{bibnamehash}{b24e19cd8c5bf098e51ef99c6ddc4dc5}
+      \strng{authorbibnamehash}{b24e19cd8c5bf098e51ef99c6ddc4dc5}
+      \strng{authornamehash}{b24e19cd8c5bf098e51ef99c6ddc4dc5}
+      \strng{authorfullhash}{9d9926d9ffe68a3571cd333deb48805b}
+      \field{labelalpha}{Bau+04}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SRPapers}
+      \field{title}{Klein-und Mittelstädte--Verkleinerte Blaupausen der Großstadt}
+      \field{volume}{1}
+      \field{year}{2004}
+    \endentry
     \entry{Burke2006}{article}{}
       \name{author}{7}{}{%
         {{hash=49958e693bda5d246eef0d6aa7c4e398}{%
@@ -698,6 +742,33 @@
       \field{volume}{81}
       \field{year}{2004}
     \endentry
+    \entry{petzold2009ewiger}{book}{}
+      \name{author}{2}{}{%
+        {{hash=38096199f553d1dd830a250cd6f6e16e}{%
+           family={Petzold},
+           familyi={P\bibinitperiod},
+           given={Linus},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f348122e629c9682d825f6577d966e10}{%
+           family={Stenglein},
+           familyi={S\bibinitperiod},
+           given={Andreas\bibnamedelima Sebastian},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a249cdd9049d2783a198be06addbf582}
+      \strng{fullhash}{a249cdd9049d2783a198be06addbf582}
+      \strng{bibnamehash}{a249cdd9049d2783a198be06addbf582}
+      \strng{authorbibnamehash}{a249cdd9049d2783a198be06addbf582}
+      \strng{authornamehash}{a249cdd9049d2783a198be06addbf582}
+      \strng{authorfullhash}{a249cdd9049d2783a198be06addbf582}
+      \field{labelalpha}{PS09}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ewiger Wechsel am Webstuhl der Zeit, ein Faden-Freude-ein Faden-Leid: 136 Jahre Geschichte der Spinnerei in Gaustadt: die Betriebsamkeit}
+      \field{year}{2009}
+    \endentry
     \entry{pryss2015mobile}{inproceedings}{}
       \name{author}{4}{}{%
         {{hash=943b18ce9781fbea872c00379f878e34}{%
@@ -876,6 +947,37 @@
       \field{title}{A survey of mobile crowdsensing and crowdsourcing strategies for smart mobile device users}
       \field{year}{2022}
       \field{dateera}{ce}
+    \endentry
+    \entry{Rehkopf2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=32198f6839815879aa42207e827fdf2e}{%
+           family={Rehkopf},
+           familyi={R\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{32198f6839815879aa42207e827fdf2e}
+      \strng{fullhash}{32198f6839815879aa42207e827fdf2e}
+      \strng{bibnamehash}{32198f6839815879aa42207e827fdf2e}
+      \strng{authorbibnamehash}{32198f6839815879aa42207e827fdf2e}
+      \strng{authornamehash}{32198f6839815879aa42207e827fdf2e}
+      \strng{authorfullhash}{32198f6839815879aa42207e827fdf2e}
+      \field{labelalpha}{Reh}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist ein Kanban Board?}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.atlassian.com/de/agile/kanban/boards
+      \endverb
+      \verb{url}
+      \verb https://www.atlassian.com/de/agile/kanban/boards
+      \endverb
     \endentry
     \entry{salo2007iterative}{article}{}
       \name{author}{2}{}{%
@@ -1389,6 +1491,50 @@
       \verb https://www.science.org/doi/abs/10.1126/science.aax0848
       \endverb
     \endentry
+    \entry{baumgart2004klein}{article}{}
+      \name{author}{5}{}{%
+        {{hash=759bb399310d495627412e727f321e94}{%
+           family={Baumgart},
+           familyi={B\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8cb621f99bd834a83078556099540924}{%
+           family={Flacke},
+           familyi={F\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8340fbaa09f07730fdef65291d71a55a}{%
+           family={Grüger},
+           familyi={G\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9a0bd4db6a5af340d5f4ea9dae7b8b59}{%
+           family={Lütke},
+           familyi={L\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4cf9f4f1c987ca6d22b4d73ed8ec247e}{%
+           family={Rüdiger},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b24e19cd8c5bf098e51ef99c6ddc4dc5}
+      \strng{fullhash}{9d9926d9ffe68a3571cd333deb48805b}
+      \strng{bibnamehash}{b24e19cd8c5bf098e51ef99c6ddc4dc5}
+      \strng{authorbibnamehash}{b24e19cd8c5bf098e51ef99c6ddc4dc5}
+      \strng{authornamehash}{b24e19cd8c5bf098e51ef99c6ddc4dc5}
+      \strng{authorfullhash}{9d9926d9ffe68a3571cd333deb48805b}
+      \field{labelalpha}{Bau+04}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SRPapers}
+      \field{title}{Klein-und Mittelstädte--Verkleinerte Blaupausen der Großstadt}
+      \field{volume}{1}
+      \field{year}{2004}
+    \endentry
     \entry{Burke2006}{article}{}
       \name{author}{7}{}{%
         {{hash=49958e693bda5d246eef0d6aa7c4e398}{%
@@ -2070,6 +2216,33 @@
       \field{pages}{642\bibrangedash 647}
       \range{pages}{6}
     \endentry
+    \entry{petzold2009ewiger}{book}{}
+      \name{author}{2}{}{%
+        {{hash=38096199f553d1dd830a250cd6f6e16e}{%
+           family={Petzold},
+           familyi={P\bibinitperiod},
+           given={Linus},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f348122e629c9682d825f6577d966e10}{%
+           family={Stenglein},
+           familyi={S\bibinitperiod},
+           given={Andreas\bibnamedelima Sebastian},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a249cdd9049d2783a198be06addbf582}
+      \strng{fullhash}{a249cdd9049d2783a198be06addbf582}
+      \strng{bibnamehash}{a249cdd9049d2783a198be06addbf582}
+      \strng{authorbibnamehash}{a249cdd9049d2783a198be06addbf582}
+      \strng{authornamehash}{a249cdd9049d2783a198be06addbf582}
+      \strng{authorfullhash}{a249cdd9049d2783a198be06addbf582}
+      \field{labelalpha}{PS09}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ewiger Wechsel am Webstuhl der Zeit, ein Faden-Freude-ein Faden-Leid: 136 Jahre Geschichte der Spinnerei in Gaustadt: die Betriebsamkeit}
+      \field{year}{2009}
+    \endentry
     \entry{Puzhevich2021}{online}{}
       \name{author}{1}{}{%
         {{hash=d559c6a8c18a2f43abead470b86b6288}{%
@@ -2140,6 +2313,37 @@
       \field{title}{A survey of mobile crowdsensing and crowdsourcing strategies for smart mobile device users}
       \field{year}{2022}
       \field{dateera}{ce}
+    \endentry
+    \entry{Rehkopf2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=32198f6839815879aa42207e827fdf2e}{%
+           family={Rehkopf},
+           familyi={R\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{32198f6839815879aa42207e827fdf2e}
+      \strng{fullhash}{32198f6839815879aa42207e827fdf2e}
+      \strng{bibnamehash}{32198f6839815879aa42207e827fdf2e}
+      \strng{authorbibnamehash}{32198f6839815879aa42207e827fdf2e}
+      \strng{authornamehash}{32198f6839815879aa42207e827fdf2e}
+      \strng{authorfullhash}{32198f6839815879aa42207e827fdf2e}
+      \field{labelalpha}{Reh}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist ein Kanban Board?}
+      \field{urlday}{9}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.atlassian.com/de/agile/kanban/boards
+      \endverb
+      \verb{url}
+      \verb https://www.atlassian.com/de/agile/kanban/boards
+      \endverb
     \endentry
     \entry{salo2007iterative}{article}{}
       \name{author}{2}{}{%
